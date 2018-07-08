@@ -1,0 +1,1192 @@
+﻿Log file open, 07/08/18 14:07:25
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine without a game
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: Loading recent project file: ../../../../../../Documents/GitHub/W.A.V/WAV/WAV.uproject
+LogInit: Display: RandInit(-1325321922) SRandInit(-1325321922).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.185503
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: E:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.07.08-18.07.27:548][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.08-18.07.27:548][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.07.08-18.07.27:565][  0]LogInit: Computer: PEARL
+[2018.07.08-18.07.27:565][  0]LogInit: User: Mrgds2
+[2018.07.08-18.07.27:565][  0]LogInit: CPU Page size=4096, Cores=3
+[2018.07.08-18.07.27:565][  0]LogInit: High frequency timer resolution =3.429441 MHz
+[2018.07.08-18.07.27:566][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.07.08-18.07.27:566][  0]LogMemory: Platform Memory Stats for Windows
+[2018.07.08-18.07.27:566][  0]LogMemory: Process Physical Memory: 272.49 MB used, 272.49 MB peak
+[2018.07.08-18.07.27:566][  0]LogMemory: Process Virtual Memory: 272.11 MB used, 272.11 MB peak
+[2018.07.08-18.07.27:566][  0]LogMemory: Physical Memory: 3517.64 MB used,  4575.22 MB free, 8092.87 MB total
+[2018.07.08-18.07.27:566][  0]LogMemory: Virtual Memory: 4779.23 MB used,  4575.22 MB free, 134217728.00 MB total
+[2018.07.08-18.07.27:864][  0]LogInit: Using OS detected language (en-US).
+[2018.07.08-18.07.27:864][  0]LogInit: Using OS detected locale (en-US).
+[2018.07.08-18.07.27:869][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.07.08-18.07.28:425][  0]LogInit: Setting process to per monitor DPI aware
+[2018.07.08-18.07.28:821][  0]LogD3D11RHI: D3D11 adapters:
+[2018.07.08-18.07.28:890][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2018.07.08-18.07.28:890][  0]LogD3D11RHI:       4058/0/4046 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.07.08-18.07.28:892][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.07.08-18.07.28:892][  0]LogD3D11RHI:       0/0/4046 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.07.08-18.07.28:892][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.07.08-18.07.28:901][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.07.08-18.07.28:901][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2018.07.08-18.07.28:901][  0]LogWindows: EnumDisplayDevices:
+[2018.07.08-18.07.28:901][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2018.07.08-18.07.28:902][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2018.07.08-18.07.28:902][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.07.08-18.07.28:902][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.07.08-18.07.28:902][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.07.08-18.07.28:902][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2018.07.08-18.07.28:902][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.07.08-18.07.28:902][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.07.08-18.07.28:902][  0]LogRHI: Texture pool is 2840 MB (70% of 4058 MB)
+[2018.07.08-18.07.28:949][  0]LogD3D11RHI: Async texture creation enabled
+[2018.07.08-18.07.29:030][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.07.08-18.07.29:129][  0]LogShaderCompilers: Guid format shader working directory is 1 characters bigger than the processId version (../../../../../../Documents/GitHub/W.A.V/WAV/Intermediate/Shaders/WorkingDirectory/10784/).
+[2018.07.08-18.07.29:129][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Mrgds/AppData/Local/Temp/UnrealShaderWorkingDir/7CC2920642861A3C32E902AAE6D0EEAF/'.
+[2018.07.08-18.07.29:129][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.07.08-18.07.30:591][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.07.08-18.07.30:686][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.07.08-18.07.30:783][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.07.08-18.07.30:881][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.07.08-18.07.30:981][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.07.08-18.07.31:081][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.07.08-18.07.31:181][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.07.08-18.07.31:282][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.07.08-18.07.31:370][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.07.08-18.07.31:475][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.07.08-18.07.31:579][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.07.08-18.07.31:680][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.07.08-18.07.31:774][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.07.08-18.07.31:872][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.07.08-18.07.32:068][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.07.08-18.07.32:068][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.07.08-18.07.32:174][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.08-18.07.32:256][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.07.08-18.07.32:411][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.07.08-18.07.32:464][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.07.08-18.07.32:558][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.07.08-18.07.32:655][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.07.08-18.07.32:751][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.07.08-18.07.32:844][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.07.08-18.07.32:844][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.07.08-18.07.33:803][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.07.08-18.07.33:947][  0]LogDerivedDataCache: Loaded boot cache 0.14s 78MB C:/Users/Mrgds/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.07.08-18.07.33:947][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Mrgds/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.07.08-18.07.33:947][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Documents/GitHub/W.A.V/WAV/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.07.08-18.07.33:947][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.07.08-18.07.33:947][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Documents/GitHub/W.A.V/WAV/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.07.08-18.07.33:947][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.07.08-18.07.33:970][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.07.08-18.07.33:983][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Mrgds/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.07.08-18.07.34:000][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.07.08-18.07.34:000][  0]LogSlate: Using Freetype 2.6.0
+[2018.07.08-18.07.34:001][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.08-18.07.34:001][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.08-18.07.34:591][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.08-18.07.35:193][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.07.08-18.07.35:273][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.07.08-18.07.35:273][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.07.08-18.07.35:273][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.07.08-18.07.35:273][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.07.08-18.07.35:273][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.07.08-18.07.35:325][  0]LogNetVersion: WAV , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2711260497)
+[2018.07.08-18.07.35:573][  0]LogAssetRegistry: FAssetRegistry took 0.0299 seconds to start up
+[2018.07.08-18.07.36:351][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.067207 seconds
+[2018.07.08-18.07.36:358][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.07.08-18.07.36:358][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.07.08-18.07.36:358][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.07.08-18.07.36:482][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.07.08-18.07.41:264][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.07.08-18.07.41:337][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.07.08-18.07.42:574][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.07.08-18.07.43:319][  0]SourceControl: Source control is disabled
+[2018.07.08-18.07.43:319][  0]SourceControl: Source control is disabled
+[2018.07.08-18.07.43:419][  0]SourceControl: Source control is disabled
+[2018.07.08-18.07.43:526][  0]SourceControl: Source control is disabled
+[2018.07.08-18.07.45:086][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.07.08-18.07.45:624][  0]LogOcInput: OculusInput pre-init called
+[2018.07.08-18.07.46:147][  0]LogEngine: Initializing Engine...
+[2018.07.08-18.07.46:152][  0]LogHMD: Failed to initialize OpenVR with code 105
+[2018.07.08-18.07.46:458][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.08-18.07.46:458][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.08-18.07.46:710][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.07.08-18.07.46:740][  0]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.07.08-18.07.46:753][  0]LogInit: FAudioDevice initialized.
+[2018.07.08-18.07.46:878][  0]LogDerivedDataCache: Saved boot cache 0.12s 78MB C:/Users/Mrgds/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.07.08-18.07.46:915][  0]LogInit: Texture streaming: Enabled
+[2018.07.08-18.07.47:111][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.07.08-18.07.47:350][  0]LogInit: Transaction tracking system initialized
+[2018.07.08-18.07.47:935][  0]BlueprintLog: New page: Editor Load
+[2018.07.08-18.07.49:688][  0]LocalizationService: Localization service is disabled
+[2018.07.08-18.07.51:065][  0]LogConsoleResponse: Display: 
+[2018.07.08-18.07.51:354][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.07.08-18.07.51:354][  0]LogCook: Display: Mobile HDR setting 1
+[2018.07.08-18.07.51:354][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.07.08-18.07.52:187][  0]LogFileCache: Scanning file cache for directory 'E:/Documents/GitHub/W.A.V/WAV/Content/' took 0.02s
+[2018.07.08-18.07.53:657][  0]SourceControl: Source control is disabled
+[2018.07.08-18.07.53:658][  0]Cmd: MAP LOAD FILE="../../../../../../Documents/GitHub/W.A.V/WAV/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.08-18.07.53:658][  0]LightingResults: New page: Lighting Build
+[2018.07.08-18.07.53:742][  0]MapCheck: New page: Map Check
+[2018.07.08-18.07.53:742][  0]LightingResults: New page: Lighting Build
+[2018.07.08-18.07.54:231][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.07.08-18.07.54:242][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.08-18.07.54:262][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.08-18.07.54:346][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 83.13ms to complete.
+[2018.07.08-18.07.54:346][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.688
+[2018.07.08-18.07.54:645][  0]LogCollectionManager: Loaded 0 collections in 0.003089 seconds
+[2018.07.08-18.07.54:766][  0]LogFileCache: Scanning file cache for directory 'E:/Documents/GitHub/W.A.V/WAV/Saved/Collections/' took 0.01s
+[2018.07.08-18.07.54:766][  0]LogFileCache: Scanning file cache for directory 'E:/Documents/GitHub/W.A.V/WAV/Content/Developers/Mrgds2/Collections/' took 0.01s
+[2018.07.08-18.07.54:766][  0]LogFileCache: Scanning file cache for directory 'E:/Documents/GitHub/W.A.V/WAV/Content/Collections/' took 0.01s
+[2018.07.08-18.07.54:766][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.07.08-18.07.54:780][  0]LogContentBrowser: Native class hierarchy populated in 0.0129 seconds. Added 2364 classes and 521 folders.
+[2018.07.08-18.07.54:902][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.07.08-18.07.54:971][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.07.08-18.07.55:060][  0]LogSlate: Took 0.000425 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.08-18.07.55:064][  0]LogSlate: Took 0.000370 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.07.08-18.07.55:073][  0]LogSlate: Took 0.000369 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.07.08-18.07.55:208][  0]LogRenderer: Reallocating scene render targets to support 1200x688 Format 10 NumSamples 1 (Frame:1).
+[2018.07.08-18.07.55:451][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.07.08-18.07.55:451][  0]LogLoad: (Engine Initialization) Total time: 31.82 seconds
+[2018.07.08-18.07.55:451][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.07.08-18.07.55:451][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.07.08-18.07.55:451][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.07.08-18.07.55:460][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.08-18.07.55:481][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.07.08-18.07.55:527][  0]LogSlate: Took 0.000336 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.07.08-18.07.55:546][  1]LogAssetRegistry: Asset discovery search completed in 19.9956 seconds
+[2018.07.08-18.07.55:549][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.07.08-18.07.55:549][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000089 seconds (updated 0 objects)
+[2018.07.08-18.08.44:628][863]LogSlate: Took 0.000225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.07.08-18.08.44:761][863]LogAIModule: Creating AISystem for world WAV01
+[2018.07.08-18.08.44:826][863]Cmd: MAP LOAD FILE="../../../../../../Documents/GitHub/W.A.V/WAV/Content/WAV01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.08-18.08.44:826][863]LightingResults: New page: Lighting Build
+[2018.07.08-18.08.44:827][863]LoadErrors: New page: Loading map: WAV01.umap
+[2018.07.08-18.08.44:828][863]MapCheck: New page: Map Check
+[2018.07.08-18.08.44:828][863]LightingResults: New page: Lighting Build
+[2018.07.08-18.08.45:190][863]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.08-18.08.45:247][863]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.08-18.08.45:332][863]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 85.088ms to complete.
+[2018.07.08-18.08.45:332][863]LogFileHelpers: Loading map 'WAV01' took 0.507
+[2018.07.08-18.09.42:034][371]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.07.08-18.36.56:127][394]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.07.08-18.37.03:199][ 74]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2018.07.08-18.38.48:352][919]Cmd: TRANSACTION UNDO
+[2018.07.08-18.38.48:353][919]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2018.07.08-18.38.48:398][919]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2018.07.08-18.38.48:991][919]Cmd: TRANSACTION UNDO
+[2018.07.08-18.38.48:991][919]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2018.07.08-18.38.49:041][919]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 512X512)
+[2018.07.08-18.38.49:085][919]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 512X512)
+[2018.07.08-18.38.49:126][919]Cmd: TRANSACTION UNDO
+[2018.07.08-18.38.49:126][919]LogEditorTransaction: Undo Edit Tool Strength
+[2018.07.08-18.38.49:161][919]LogSlate: Took 0.000403 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.07.08-18.38.49:302][929]Cmd: TRANSACTION UNDO
+[2018.07.08-18.38.49:302][929]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2018.07.08-18.38.49:351][929]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 512X512)
+[2018.07.08-18.38.49:511][938]Cmd: TRANSACTION UNDO
+[2018.07.08-18.38.49:511][938]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2018.07.08-18.38.49:575][938]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 512X512)
+[2018.07.08-18.38.49:633][938]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 512X512)
+[2018.07.08-18.38.49:689][938]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2018.07.08-18.38.49:725][938]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 512X512)
+[2018.07.08-18.38.49:765][938]Cmd: TRANSACTION UNDO
+[2018.07.08-18.38.49:765][938]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2018.07.08-18.38.49:899][938]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 512X512)
+[2018.07.08-18.38.49:948][938]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 512X512)
+[2018.07.08-18.38.50:012][938]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2018.07.08-18.38.50:047][938]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 512X512)
+[2018.07.08-18.38.50:101][938]Cmd: TRANSACTION UNDO
+[2018.07.08-18.38.50:101][938]LogEditorTransaction: Undo Edit Flatten Mode
+[2018.07.08-18.38.50:140][938]Cmd: TRANSACTION UNDO
+[2018.07.08-18.38.50:140][938]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2018.07.08-18.38.50:202][938]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 512X512)
+[2018.07.08-18.38.50:247][938]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2018.07.08-18.38.50:313][938]Cmd: TRANSACTION UNDO
+[2018.07.08-18.38.50:313][938]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2018.07.08-18.38.50:376][938]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 512X512)
+[2018.07.08-18.38.50:425][938]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 512X512)
+[2018.07.08-18.38.50:491][938]Cmd: TRANSACTION UNDO
+[2018.07.08-18.38.50:491][938]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2018.07.08-18.38.50:555][938]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2018.07.08-18.38.50:588][938]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 512X512)
+[2018.07.08-18.38.50:626][938]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 512X512)
+[2018.07.08-18.38.50:726][938]Cmd: TRANSACTION UNDO
+[2018.07.08-18.38.50:726][938]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.07.08-18.38.50:763][938]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 512X512)
+[2018.07.08-18.38.51:004][951]Cmd: TRANSACTION UNDO
+[2018.07.08-18.38.51:004][951]LogEditorTransaction: Undo Edit Tool Strength
+[2018.07.08-18.38.51:235][970]Cmd: TRANSACTION UNDO
+[2018.07.08-18.38.51:235][970]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.07.08-18.38.51:319][970]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 512X512)
+[2018.07.08-18.38.51:472][977]Cmd: TRANSACTION UNDO
+[2018.07.08-18.38.51:472][977]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.07.08-18.38.51:525][977]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 512X512)
+[2018.07.08-18.38.51:752][998]Cmd: TRANSACTION UNDO
+[2018.07.08-18.38.51:752][998]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.07.08-18.38.52:015][ 20]Cmd: TRANSACTION UNDO
+[2018.07.08-18.38.52:016][ 20]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.07.08-18.38.52:127][ 20]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2018.07.08-18.38.52:165][ 20]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 512X512)
+[2018.07.08-18.38.52:212][ 20]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 512X512)
+[2018.07.08-18.38.52:255][ 20]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 512X512)
+[2018.07.08-18.38.52:357][ 20]Cmd: TRANSACTION UNDO
+[2018.07.08-18.38.52:357][ 20]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.07.08-18.38.52:691][ 20]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2018.07.08-18.38.52:752][ 20]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 512X512)
+[2018.07.08-18.38.52:907][ 20]Cmd: TRANSACTION UNDO
+[2018.07.08-18.38.52:907][ 20]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.07.08-18.38.52:978][ 20]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 512X512)
+[2018.07.08-18.38.53:014][ 20]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 512X512)
+[2018.07.08-18.38.53:056][ 20]Cmd: TRANSACTION UNDO
+[2018.07.08-18.38.53:056][ 20]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.07.08-18.38.53:144][ 20]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 512X512)
+[2018.07.08-18.38.53:180][ 20]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 512X512)
+[2018.07.08-18.38.53:223][ 20]Cmd: TRANSACTION UNDO
+[2018.07.08-18.38.53:223][ 20]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.07.08-18.38.53:299][ 20]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 512X512)
+[2018.07.08-18.38.53:332][ 20]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 512X512)
+[2018.07.08-18.38.53:373][ 20]Cmd: TRANSACTION UNDO
+[2018.07.08-18.38.53:373][ 20]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.07.08-18.38.53:601][ 20]Cmd: TRANSACTION UNDO
+[2018.07.08-18.38.53:601][ 20]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.07.08-18.38.53:862][ 20]Cmd: TRANSACTION UNDO
+[2018.07.08-18.38.53:862][ 20]LogEditorTransaction: Undo Clicking on Actors
+[2018.07.08-18.38.53:937][ 21]Cmd: TRANSACTION UNDO
+[2018.07.08-18.38.53:937][ 21]LogEditorTransaction: Undo Clicking on Actors
+[2018.07.08-18.39.26:737][789]Cmd: TRANSACTION UNDO
+[2018.07.08-18.39.26:737][789]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.07.08-18.39.26:782][789]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 512X512)
+[2018.07.08-18.39.27:274][820]Cmd: TRANSACTION UNDO
+[2018.07.08-18.39.27:274][820]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.07.08-18.39.27:759][872]Cmd: TRANSACTION UNDO
+[2018.07.08-18.39.27:760][872]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.07.08-18.40.10:940][ 28]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2018.07.08-18.40.15:761][286]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2018.07.08-18.41.39:444][173]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2018.07.08-18.42.02:578][934]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2018.07.08-18.42.54:752][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WAV01" FILE="../../../../../../Documents/GitHub/W.A.V/WAV/Saved/Autosaves/Game/WAV01_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.07.08-18.42.54:863][112]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2018.07.08-18.42.54:883][112]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2018.07.08-18.42.54:902][112]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2018.07.08-18.42.54:919][112]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2018.07.08-18.42.54:945][112]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 512X512)
+[2018.07.08-18.42.54:963][112]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 512X512)
+[2018.07.08-18.42.54:982][112]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 512X512)
+[2018.07.08-18.42.55:002][112]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 512X512)
+[2018.07.08-18.42.55:021][112]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 512X512)
+[2018.07.08-18.42.55:040][112]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2018.07.08-18.42.55:058][112]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2018.07.08-18.42.55:077][112]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 512X512)
+[2018.07.08-18.42.55:096][112]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 512X512)
+[2018.07.08-18.42.55:114][112]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 512X512)
+[2018.07.08-18.42.55:134][112]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 512X512)
+[2018.07.08-18.42.55:169][112]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 512X512)
+[2018.07.08-18.42.56:249][112]LogSlate: Took 0.000277 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.08-18.42.56:586][112]LogSavePackage: Save=1802.14ms
+[2018.07.08-18.42.56:586][112]LogSavePackage: Moving '../../../../../../Documents/GitHub/W.A.V/WAV/Saved/WAV01_Auto120D27C8F41D45976499D36BEA9B80580.tmp' to '../../../../../../Documents/GitHub/W.A.V/WAV/Saved/Autosaves/Game/WAV01_Auto1.umap'
+[2018.07.08-18.42.56:592][112]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/W.A.V/WAV/Saved/Autosaves/Game/WAV01_Auto1.umap
+[2018.07.08-18.42.56:594][112]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/WAV01' took 1.862
+[2018.07.08-18.42.56:594][112]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.862
+[2018.07.08-18.44.24:679][106]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2018.07.08-18.44.25:062][122]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2018.07.08-18.44.26:974][227]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2018.07.08-18.44.27:383][246]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2018.07.08-18.44.28:308][298]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2018.07.08-18.44.30:346][457]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2018.07.08-18.44.32:042][568]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2018.07.08-18.44.32:616][602]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2018.07.08-18.44.41:827][321]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2018.07.08-18.44.44:613][406]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2018.07.08-18.44.45:080][434]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2018.07.08-18.44.45:629][470]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2018.07.08-18.45.04:971][ 64]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2018.07.08-18.45.05:418][ 90]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2018.07.08-18.45.12:861][247]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2018.07.08-18.45.13:282][267]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2018.07.08-18.45.13:702][286]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2018.07.08-18.45.14:125][305]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2018.07.08-18.45.20:597][848]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2018.07.08-18.45.26:211][292]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2018.07.08-18.45.26:581][309]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2018.07.08-18.45.29:017][375]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2018.07.08-18.45.45:358][947]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2018.07.08-18.45.47:090][ 54]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2018.07.08-18.46.01:489][ 25]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2018.07.08-18.48.05:507][333]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2018.07.08-18.49.13:018][ 80]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2018.07.08-18.50.48:740][511]MapCheck: New page: Map Check
+[2018.07.08-18.50.48:770][511]LightingResults: New page: Lighting Build - Jul 8, 2018, 10:50:48 AM
+[2018.07.08-18.50.48:968][511]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.07.08-18.50.49:046][511]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.07.08-18.50.49:063][511]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.07.08-18.50.49:579][511]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.07.08-18.50.49:579][511]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10784
+[2018.07.08-18.50.54:565][511]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.07.08-18.50.54:565][511]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.07.08-18.50.54:565][511]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.07.08-18.50.54:565][511]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.07.08-18.50.54:565][511]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.07.08-18.50.55:783][511]LogEditorBuildUtils: Build time 0:07
+[2018.07.08-18.52.57:251][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WAV01" FILE="../../../../../../Documents/GitHub/W.A.V/WAV/Saved/Autosaves/Game/WAV01_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.07.08-18.52.57:355][952]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2018.07.08-18.52.57:375][952]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2018.07.08-18.52.57:395][952]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2018.07.08-18.52.57:413][952]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 512X512)
+[2018.07.08-18.52.57:435][952]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 512X512)
+[2018.07.08-18.52.57:455][952]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 512X512)
+[2018.07.08-18.52.57:473][952]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 512X512)
+[2018.07.08-18.52.57:492][952]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 512X512)
+[2018.07.08-18.52.57:511][952]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2018.07.08-18.52.57:531][952]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2018.07.08-18.52.57:553][952]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 512X512)
+[2018.07.08-18.52.57:573][952]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 512X512)
+[2018.07.08-18.52.57:592][952]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 512X512)
+[2018.07.08-18.52.57:613][952]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 512X512)
+[2018.07.08-18.52.57:636][952]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 512X512)
+[2018.07.08-18.52.59:371][952]LogSavePackage: Save=2096.51ms
+[2018.07.08-18.52.59:371][952]LogSavePackage: Moving '../../../../../../Documents/GitHub/W.A.V/WAV/Saved/WAV01_Auto25CAD30A14689D86C966AC08B781CF6B1.tmp' to '../../../../../../Documents/GitHub/W.A.V/WAV/Saved/Autosaves/Game/WAV01_Auto2.umap'
+[2018.07.08-18.52.59:377][952]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/W.A.V/WAV/Saved/Autosaves/Game/WAV01_Auto2.umap
+[2018.07.08-18.52.59:380][952]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/WAV01' took 2.149
+[2018.07.08-18.52.59:380][952]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.149
+[2018.07.08-18.58.58:596][790]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0009 seconds. Added 1 classes and 0 folders.
+[2018.07.08-18.58.58:611][790]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-18.58.59:419][790]LogMaterial: Missing cached shader map for material M_SkyBox, compiling. 
+[2018.07.08-18.58.59:528][790]LogMaterial: Missing cached shader map for material GridMaterial, compiling. 
+[2018.07.08-18.59.00:939][790]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-18.59.01:062][790]LogSlate: Took 0.025134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.07.08-19.01.17:280][986]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.07.08-19.01.17:280][986]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.07.08-19.01.17:280][986]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.07.08-19.01.17:280][986]MaterialEditorStats: Texture samplers: 2/16
+[2018.07.08-19.01.19:834][102]Job is a success!
+[2018.07.08-19.01.20:191][103]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.039s
+[2018.07.08-19.01.20:192][103]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.07.08-19.01.20:192][103]LogVolumetricLightmapImport:      BrickData 15x5x5 = 0.0Mb
+[2018.07.08-19.01.20:192][103]LogVolumetricLightmapImport:      Bricks at Level
+[2018.07.08-19.01.20:192][103]LogVolumetricLightmapImport:          0: 33.3% covering 100.0% of volume
+[2018.07.08-19.01.20:192][103]LogVolumetricLightmapImport:          1: 33.3% covering 1.6% of volume
+[2018.07.08-19.01.20:192][103]LogVolumetricLightmapImport:          2: 33.3% covering 0.0% of volume
+[2018.07.08-19.01.33:286][103]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:286][103]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2018.07.08-19.01.33:287][103]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:287][103]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 512X512)
+[2018.07.08-19.01.33:287][103]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:287][103]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 512X512)
+[2018.07.08-19.01.33:287][103]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:287][103]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 512X512)
+[2018.07.08-19.01.33:287][103]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:287][103]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 512X512)
+[2018.07.08-19.01.33:287][103]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:287][103]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 512X512)
+[2018.07.08-19.01.33:287][103]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:287][103]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 512X512)
+[2018.07.08-19.01.33:287][103]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:287][103]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 512X512)
+[2018.07.08-19.01.33:287][103]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:287][103]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 512X512)
+[2018.07.08-19.01.33:287][103]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:287][103]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 512X512)
+[2018.07.08-19.01.33:287][103]LogTexture: Display: Building textures: HQ_Lightmap1_11 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:287][103]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (DXT1, 512X512)
+[2018.07.08-19.01.33:287][103]LogTexture: Display: Building textures: HQ_Lightmap1_12 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:287][103]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (DXT1, 512X512)
+[2018.07.08-19.01.33:288][103]LogTexture: Display: Building textures: HQ_Lightmap1_13 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:288][103]LogTexture: Display: Building textures: LQ_Lightmap_1_13 (DXT1, 512X512)
+[2018.07.08-19.01.33:288][103]LogTexture: Display: Building textures: HQ_Lightmap1_14 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:288][103]LogTexture: Display: Building textures: LQ_Lightmap_1_14 (DXT1, 512X512)
+[2018.07.08-19.01.33:288][103]LogTexture: Display: Building textures: HQ_Lightmap1_15 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:288][103]LogTexture: Display: Building textures: LQ_Lightmap_1_15 (DXT1, 512X512)
+[2018.07.08-19.01.33:288][103]LogTexture: Display: Building textures: HQ_Lightmap1_16 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:288][103]LogTexture: Display: Building textures: LQ_Lightmap_1_16 (DXT1, 512X512)
+[2018.07.08-19.01.33:288][103]LogTexture: Display: Building textures: HQ_Lightmap1_17 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:288][103]LogTexture: Display: Building textures: LQ_Lightmap_1_17 (DXT1, 512X512)
+[2018.07.08-19.01.33:288][103]LogTexture: Display: Building textures: HQ_Lightmap1_18 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:288][103]LogTexture: Display: Building textures: LQ_Lightmap_1_18 (DXT1, 512X512)
+[2018.07.08-19.01.33:288][103]LogTexture: Display: Building textures: HQ_Lightmap1_19 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:288][103]LogTexture: Display: Building textures: LQ_Lightmap_1_19 (DXT1, 512X512)
+[2018.07.08-19.01.33:288][103]LogTexture: Display: Building textures: HQ_Lightmap1_20 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:288][103]LogTexture: Display: Building textures: LQ_Lightmap_1_20 (DXT1, 512X512)
+[2018.07.08-19.01.33:288][103]LogTexture: Display: Building textures: HQ_Lightmap1_21 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:288][103]LogTexture: Display: Building textures: LQ_Lightmap_1_21 (DXT1, 512X512)
+[2018.07.08-19.01.33:288][103]LogTexture: Display: Building textures: HQ_Lightmap1_22 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:288][103]LogTexture: Display: Building textures: LQ_Lightmap_1_22 (DXT1, 512X512)
+[2018.07.08-19.01.33:288][103]LogTexture: Display: Building textures: HQ_Lightmap1_23 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:288][103]LogTexture: Display: Building textures: LQ_Lightmap_1_23 (DXT1, 512X512)
+[2018.07.08-19.01.33:288][103]LogTexture: Display: Building textures: HQ_Lightmap1_24 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:288][103]LogTexture: Display: Building textures: LQ_Lightmap_1_24 (DXT1, 512X512)
+[2018.07.08-19.01.33:288][103]LogTexture: Display: Building textures: HQ_Lightmap1_25 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:288][103]LogTexture: Display: Building textures: LQ_Lightmap_1_25 (DXT1, 512X512)
+[2018.07.08-19.01.33:288][103]LogTexture: Display: Building textures: HQ_Lightmap1_26 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:288][103]LogTexture: Display: Building textures: LQ_Lightmap_1_26 (DXT1, 512X512)
+[2018.07.08-19.01.33:288][103]LogTexture: Display: Building textures: HQ_Lightmap1_27 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:288][103]LogTexture: Display: Building textures: LQ_Lightmap_1_27 (DXT1, 512X512)
+[2018.07.08-19.01.33:288][103]LogTexture: Display: Building textures: HQ_Lightmap1_28 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:288][103]LogTexture: Display: Building textures: LQ_Lightmap_1_28 (DXT1, 512X512)
+[2018.07.08-19.01.33:289][103]LogTexture: Display: Building textures: HQ_Lightmap1_29 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:289][103]LogTexture: Display: Building textures: LQ_Lightmap_1_29 (DXT1, 512X512)
+[2018.07.08-19.01.33:289][103]LogTexture: Display: Building textures: HQ_Lightmap1_30 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:289][103]LogTexture: Display: Building textures: LQ_Lightmap_1_30 (DXT1, 512X512)
+[2018.07.08-19.01.33:289][103]LogTexture: Display: Building textures: HQ_Lightmap1_31 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:289][103]LogTexture: Display: Building textures: LQ_Lightmap_1_31 (DXT1, 512X512)
+[2018.07.08-19.01.33:289][103]LogTexture: Display: Building textures: HQ_Lightmap1_32 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:289][103]LogTexture: Display: Building textures: LQ_Lightmap_1_32 (DXT1, 512X512)
+[2018.07.08-19.01.33:289][103]LogTexture: Display: Building textures: HQ_Lightmap1_33 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:289][103]LogTexture: Display: Building textures: LQ_Lightmap_1_33 (DXT1, 512X512)
+[2018.07.08-19.01.33:289][103]LogTexture: Display: Building textures: HQ_Lightmap1_34 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:289][103]LogTexture: Display: Building textures: LQ_Lightmap_1_34 (DXT1, 512X512)
+[2018.07.08-19.01.33:289][103]LogTexture: Display: Building textures: HQ_Lightmap1_35 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:289][103]LogTexture: Display: Building textures: LQ_Lightmap_1_35 (DXT1, 512X512)
+[2018.07.08-19.01.33:289][103]LogTexture: Display: Building textures: HQ_Lightmap1_36 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:289][103]LogTexture: Display: Building textures: LQ_Lightmap_1_36 (DXT1, 512X512)
+[2018.07.08-19.01.33:289][103]LogTexture: Display: Building textures: HQ_Lightmap1_37 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:289][103]LogTexture: Display: Building textures: LQ_Lightmap_1_37 (DXT1, 512X512)
+[2018.07.08-19.01.33:289][103]LogTexture: Display: Building textures: HQ_Lightmap1_38 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:289][103]LogTexture: Display: Building textures: LQ_Lightmap_1_38 (DXT1, 512X512)
+[2018.07.08-19.01.33:289][103]LogTexture: Display: Building textures: HQ_Lightmap1_39 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:289][103]LogTexture: Display: Building textures: LQ_Lightmap_1_39 (DXT1, 512X512)
+[2018.07.08-19.01.33:289][103]LogTexture: Display: Building textures: HQ_Lightmap1_40 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:289][103]LogTexture: Display: Building textures: LQ_Lightmap_1_40 (DXT1, 512X512)
+[2018.07.08-19.01.33:289][103]LogTexture: Display: Building textures: HQ_Lightmap1_41 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:289][103]LogTexture: Display: Building textures: LQ_Lightmap_1_41 (DXT1, 512X512)
+[2018.07.08-19.01.33:289][103]LogTexture: Display: Building textures: HQ_Lightmap1_42 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:289][103]LogTexture: Display: Building textures: LQ_Lightmap_1_42 (DXT1, 512X512)
+[2018.07.08-19.01.33:289][103]LogTexture: Display: Building textures: HQ_Lightmap1_43 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:289][103]LogTexture: Display: Building textures: LQ_Lightmap_1_43 (DXT1, 512X512)
+[2018.07.08-19.01.33:289][103]LogTexture: Display: Building textures: HQ_Lightmap1_44 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:290][103]LogTexture: Display: Building textures: LQ_Lightmap_1_44 (DXT1, 512X512)
+[2018.07.08-19.01.33:290][103]LogTexture: Display: Building textures: HQ_Lightmap1_45 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:290][103]LogTexture: Display: Building textures: LQ_Lightmap_1_45 (DXT1, 512X512)
+[2018.07.08-19.01.33:290][103]LogTexture: Display: Building textures: HQ_Lightmap1_46 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:290][103]LogTexture: Display: Building textures: LQ_Lightmap_1_46 (DXT1, 512X512)
+[2018.07.08-19.01.33:290][103]LogTexture: Display: Building textures: HQ_Lightmap1_47 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:290][103]LogTexture: Display: Building textures: LQ_Lightmap_1_47 (DXT1, 512X512)
+[2018.07.08-19.01.33:290][103]LogTexture: Display: Building textures: HQ_Lightmap1_48 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:290][103]LogTexture: Display: Building textures: LQ_Lightmap_1_48 (DXT1, 512X512)
+[2018.07.08-19.01.33:290][103]LogTexture: Display: Building textures: HQ_Lightmap1_49 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:290][103]LogTexture: Display: Building textures: LQ_Lightmap_1_49 (DXT1, 512X512)
+[2018.07.08-19.01.33:290][103]LogTexture: Display: Building textures: HQ_Lightmap1_50 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:290][103]LogTexture: Display: Building textures: LQ_Lightmap_1_50 (DXT1, 512X512)
+[2018.07.08-19.01.33:290][103]LogTexture: Display: Building textures: HQ_Lightmap1_51 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:290][103]LogTexture: Display: Building textures: LQ_Lightmap_1_51 (DXT1, 512X512)
+[2018.07.08-19.01.33:290][103]LogTexture: Display: Building textures: HQ_Lightmap1_52 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:290][103]LogTexture: Display: Building textures: LQ_Lightmap_1_52 (DXT1, 512X512)
+[2018.07.08-19.01.33:290][103]LogTexture: Display: Building textures: HQ_Lightmap1_53 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:290][103]LogTexture: Display: Building textures: LQ_Lightmap_1_53 (DXT1, 512X512)
+[2018.07.08-19.01.33:290][103]LogTexture: Display: Building textures: HQ_Lightmap1_54 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:290][103]LogTexture: Display: Building textures: LQ_Lightmap_1_54 (DXT1, 512X512)
+[2018.07.08-19.01.33:290][103]LogTexture: Display: Building textures: HQ_Lightmap1_55 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:290][103]LogTexture: Display: Building textures: LQ_Lightmap_1_55 (DXT1, 512X512)
+[2018.07.08-19.01.33:291][103]LogTexture: Display: Building textures: HQ_Lightmap1_56 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:291][103]LogTexture: Display: Building textures: LQ_Lightmap_1_56 (DXT1, 512X512)
+[2018.07.08-19.01.33:291][103]LogTexture: Display: Building textures: HQ_Lightmap1_57 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:291][103]LogTexture: Display: Building textures: LQ_Lightmap_1_57 (DXT1, 512X512)
+[2018.07.08-19.01.33:291][103]LogTexture: Display: Building textures: HQ_Lightmap1_58 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:291][103]LogTexture: Display: Building textures: LQ_Lightmap_1_58 (DXT1, 512X512)
+[2018.07.08-19.01.33:291][103]LogTexture: Display: Building textures: HQ_Lightmap1_59 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:291][103]LogTexture: Display: Building textures: LQ_Lightmap_1_59 (DXT1, 512X512)
+[2018.07.08-19.01.33:291][103]LogTexture: Display: Building textures: HQ_Lightmap1_60 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:291][103]LogTexture: Display: Building textures: LQ_Lightmap_1_60 (DXT1, 512X512)
+[2018.07.08-19.01.33:291][103]LogTexture: Display: Building textures: HQ_Lightmap1_61 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:291][103]LogTexture: Display: Building textures: LQ_Lightmap_1_61 (DXT1, 512X512)
+[2018.07.08-19.01.33:291][103]LogTexture: Display: Building textures: HQ_Lightmap1_62 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:291][103]LogTexture: Display: Building textures: LQ_Lightmap_1_62 (DXT1, 512X512)
+[2018.07.08-19.01.33:291][103]LogTexture: Display: Building textures: HQ_Lightmap1_63 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:291][103]LogTexture: Display: Building textures: LQ_Lightmap_1_63 (DXT1, 512X512)
+[2018.07.08-19.01.33:291][103]LogTexture: Display: Building textures: HQ_Lightmap1_64 (AutoDXT, 512X512)
+[2018.07.08-19.01.33:291][103]LogTexture: Display: Building textures: LQ_Lightmap_1_64 (DXT1, 512X512)
+[2018.07.08-19.01.33:291][103]LogTexture: Display: Building textures: HQ_Lightmap1_65 (AutoDXT, 64X64)
+[2018.07.08-19.01.33:291][103]LogTexture: Display: Building textures: LQ_Lightmap_1_65 (DXT1, 64X64)
+[2018.07.08-19.01.33:487][103]LogTexture: Display: Building textures: ShadowMapTexture2D_65 (G8, 256X256)
+[2018.07.08-19.01.33:487][103]LogTexture: Display: Building textures: ShadowMapTexture2D_66 (G8, 256X256)
+[2018.07.08-19.01.33:487][103]LogTexture: Display: Building textures: ShadowMapTexture2D_68 (G8, 256X256)
+[2018.07.08-19.01.33:487][103]LogTexture: Display: Building textures: ShadowMapTexture2D_67 (G8, 256X256)
+[2018.07.08-19.01.33:487][103]LogTexture: Display: Building textures: ShadowMapTexture2D_69 (G8, 256X256)
+[2018.07.08-19.01.33:487][103]LogTexture: Display: Building textures: ShadowMapTexture2D_70 (G8, 256X256)
+[2018.07.08-19.01.33:487][103]LogTexture: Display: Building textures: ShadowMapTexture2D_71 (G8, 256X256)
+[2018.07.08-19.01.33:487][103]LogTexture: Display: Building textures: ShadowMapTexture2D_72 (G8, 256X256)
+[2018.07.08-19.01.33:487][103]LogTexture: Display: Building textures: ShadowMapTexture2D_73 (G8, 256X256)
+[2018.07.08-19.01.33:487][103]LogTexture: Display: Building textures: ShadowMapTexture2D_74 (G8, 256X256)
+[2018.07.08-19.01.33:489][103]LogTexture: Display: Building textures: ShadowMapTexture2D_75 (G8, 256X256)
+[2018.07.08-19.01.33:687][103]LogTexture: Display: Building textures: ShadowMapTexture2D_76 (G8, 256X256)
+[2018.07.08-19.01.33:687][103]LogTexture: Display: Building textures: ShadowMapTexture2D_77 (G8, 256X256)
+[2018.07.08-19.01.33:687][103]LogTexture: Display: Building textures: ShadowMapTexture2D_78 (G8, 256X256)
+[2018.07.08-19.01.33:687][103]LogTexture: Display: Building textures: ShadowMapTexture2D_79 (G8, 256X256)
+[2018.07.08-19.01.33:687][103]LogTexture: Display: Building textures: ShadowMapTexture2D_80 (G8, 256X256)
+[2018.07.08-19.01.33:687][103]LogTexture: Display: Building textures: ShadowMapTexture2D_81 (G8, 256X256)
+[2018.07.08-19.01.33:687][103]LogTexture: Display: Building textures: ShadowMapTexture2D_82 (G8, 256X256)
+[2018.07.08-19.01.33:687][103]LogTexture: Display: Building textures: ShadowMapTexture2D_83 (G8, 256X256)
+[2018.07.08-19.01.33:687][103]LogTexture: Display: Building textures: ShadowMapTexture2D_84 (G8, 256X256)
+[2018.07.08-19.01.33:687][103]LogTexture: Display: Building textures: ShadowMapTexture2D_85 (G8, 256X256)
+[2018.07.08-19.01.33:687][103]LogTexture: Display: Building textures: ShadowMapTexture2D_86 (G8, 256X256)
+[2018.07.08-19.01.33:687][103]LogTexture: Display: Building textures: ShadowMapTexture2D_87 (G8, 256X256)
+[2018.07.08-19.01.33:687][103]LogTexture: Display: Building textures: ShadowMapTexture2D_88 (G8, 256X256)
+[2018.07.08-19.01.33:687][103]LogTexture: Display: Building textures: ShadowMapTexture2D_89 (G8, 256X256)
+[2018.07.08-19.01.33:687][103]LogTexture: Display: Building textures: ShadowMapTexture2D_90 (G8, 256X256)
+[2018.07.08-19.01.33:687][103]LogTexture: Display: Building textures: ShadowMapTexture2D_91 (G8, 256X256)
+[2018.07.08-19.01.33:687][103]LogTexture: Display: Building textures: ShadowMapTexture2D_92 (G8, 256X256)
+[2018.07.08-19.01.33:887][103]LogTexture: Display: Building textures: ShadowMapTexture2D_93 (G8, 256X256)
+[2018.07.08-19.01.33:887][103]LogTexture: Display: Building textures: ShadowMapTexture2D_94 (G8, 256X256)
+[2018.07.08-19.01.33:887][103]LogTexture: Display: Building textures: ShadowMapTexture2D_95 (G8, 256X256)
+[2018.07.08-19.01.33:887][103]LogTexture: Display: Building textures: ShadowMapTexture2D_96 (G8, 256X256)
+[2018.07.08-19.01.33:887][103]LogTexture: Display: Building textures: ShadowMapTexture2D_97 (G8, 256X256)
+[2018.07.08-19.01.33:887][103]LogTexture: Display: Building textures: ShadowMapTexture2D_98 (G8, 256X256)
+[2018.07.08-19.01.33:887][103]LogTexture: Display: Building textures: ShadowMapTexture2D_99 (G8, 256X256)
+[2018.07.08-19.01.33:887][103]LogTexture: Display: Building textures: ShadowMapTexture2D_100 (G8, 256X256)
+[2018.07.08-19.01.33:887][103]LogTexture: Display: Building textures: ShadowMapTexture2D_101 (G8, 256X256)
+[2018.07.08-19.01.33:887][103]LogTexture: Display: Building textures: ShadowMapTexture2D_102 (G8, 256X256)
+[2018.07.08-19.01.33:887][103]LogTexture: Display: Building textures: ShadowMapTexture2D_103 (G8, 256X256)
+[2018.07.08-19.01.33:887][103]LogTexture: Display: Building textures: ShadowMapTexture2D_104 (G8, 256X256)
+[2018.07.08-19.01.33:887][103]LogTexture: Display: Building textures: ShadowMapTexture2D_105 (G8, 256X256)
+[2018.07.08-19.01.33:887][103]LogTexture: Display: Building textures: ShadowMapTexture2D_106 (G8, 256X256)
+[2018.07.08-19.01.33:887][103]LogTexture: Display: Building textures: ShadowMapTexture2D_107 (G8, 256X256)
+[2018.07.08-19.01.33:887][103]LogTexture: Display: Building textures: ShadowMapTexture2D_108 (G8, 256X256)
+[2018.07.08-19.01.33:887][103]LogTexture: Display: Building textures: ShadowMapTexture2D_109 (G8, 256X256)
+[2018.07.08-19.01.33:887][103]LogTexture: Display: Building textures: ShadowMapTexture2D_110 (G8, 256X256)
+[2018.07.08-19.01.34:086][103]LogTexture: Display: Building textures: ShadowMapTexture2D_111 (G8, 256X256)
+[2018.07.08-19.01.34:086][103]LogTexture: Display: Building textures: ShadowMapTexture2D_112 (G8, 256X256)
+[2018.07.08-19.01.34:086][103]LogTexture: Display: Building textures: ShadowMapTexture2D_113 (G8, 256X256)
+[2018.07.08-19.01.34:086][103]LogTexture: Display: Building textures: ShadowMapTexture2D_114 (G8, 256X256)
+[2018.07.08-19.01.34:086][103]LogTexture: Display: Building textures: ShadowMapTexture2D_115 (G8, 256X256)
+[2018.07.08-19.01.34:086][103]LogTexture: Display: Building textures: ShadowMapTexture2D_116 (G8, 256X256)
+[2018.07.08-19.01.34:086][103]LogTexture: Display: Building textures: ShadowMapTexture2D_117 (G8, 256X256)
+[2018.07.08-19.01.34:086][103]LogTexture: Display: Building textures: ShadowMapTexture2D_118 (G8, 256X256)
+[2018.07.08-19.01.34:086][103]LogTexture: Display: Building textures: ShadowMapTexture2D_119 (G8, 256X256)
+[2018.07.08-19.01.34:086][103]LogTexture: Display: Building textures: ShadowMapTexture2D_120 (G8, 256X256)
+[2018.07.08-19.01.34:086][103]LogTexture: Display: Building textures: ShadowMapTexture2D_121 (G8, 256X256)
+[2018.07.08-19.01.34:086][103]LogTexture: Display: Building textures: ShadowMapTexture2D_122 (G8, 256X256)
+[2018.07.08-19.01.34:086][103]LogTexture: Display: Building textures: ShadowMapTexture2D_123 (G8, 256X256)
+[2018.07.08-19.01.34:086][103]LogTexture: Display: Building textures: ShadowMapTexture2D_124 (G8, 256X256)
+[2018.07.08-19.01.34:086][103]LogTexture: Display: Building textures: ShadowMapTexture2D_125 (G8, 256X256)
+[2018.07.08-19.01.34:086][103]LogTexture: Display: Building textures: ShadowMapTexture2D_126 (G8, 256X256)
+[2018.07.08-19.01.34:086][103]LogTexture: Display: Building textures: ShadowMapTexture2D_127 (G8, 256X256)
+[2018.07.08-19.01.34:086][103]LogTexture: Display: Building textures: ShadowMapTexture2D_129 (G8, 32X32)
+[2018.07.08-19.01.34:086][103]LogTexture: Display: Building textures: ShadowMapTexture2D_128 (G8, 256X256)
+[2018.07.08-19.01.34:180][103]Lightmass on PEARL: 10:29 min total, 2.75 sec importing, 9.21 sec setup, 4:02 min photons, 6:14 min processing, 0 ms extra exporting [65/65 mappings]. Threads: 31:13 min total, 23:46 min processing.
+[2018.07.08-19.01.34:258][103]LogStaticLightingSystem: Illumination: 10:45 min (12.3 sec encoding lightmaps, 792 ms encoding shadowmaps)
+[2018.07.08-19.01.34:258][103]LogStaticLightingSystem: Lightmap texture memory:  32.0 MB (32.0 MB streaming, 0.0 MB non-streaming), 130 textures
+[2018.07.08-19.01.34:258][103]LogStaticLightingSystem: Shadowmap texture memory: 5.3 MB (5.3 MB streaming, 0.0 MB non-streaming), 65 textures
+[2018.07.08-19.01.34:992][103]DumpUnbuiltLightIteractions
+[2018.07.08-19.01.34:992][103]Lights with unbuilt interactions: 0
+[2018.07.08-19.01.34:992][103]
+[2018.07.08-19.01.34:992][103]Primitives with unbuilt interactions: 0
+[2018.07.08-19.01.35:012][104]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.07.08-19.01.35:013][104]MapCheck: New page: WAV01 - Jul 8, 2018, 11:01:35 AM
+[2018.07.08-19.01.35:172][104]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 159.976ms to complete.
+[2018.07.08-19.02.03:054][ 67]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.02.05:727][200]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.02.14:317][783]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.02.14:343][783]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.07.08-19.02.14:473][784]LogSlate: Took 0.027561 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.07.08-19.02.17:057][920]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.07.08-19.02.17:057][920]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.07.08-19.02.17:057][920]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.07.08-19.02.17:057][920]MaterialEditorStats: Texture samplers: 2/16
+[2018.07.08-19.03.01:678][604]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.03.05:761][818]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.07.08-19.03.05:761][818]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.07.08-19.03.05:761][818]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.07.08-19.03.05:761][818]MaterialEditorStats: Texture samplers: 2/16
+[2018.07.08-19.03.21:316][817]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.03.24:274][970]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.07.08-19.03.24:274][970]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.07.08-19.03.24:274][970]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.07.08-19.03.24:274][970]MaterialEditorStats: Texture samplers: 2/16
+[2018.07.08-19.03.32:585][504]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.03.35:427][648]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.07.08-19.03.35:427][648]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.07.08-19.03.35:427][648]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.07.08-19.03.35:427][648]MaterialEditorStats: Texture samplers: 2/16
+[2018.07.08-19.03.37:179][762]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.03.40:970][968]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.03.41:003][968]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.07.08-19.03.51:085][612]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.03.51:109][612]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.07.08-19.03.55:753][878]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.07.08-19.03.55:753][878]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.07.08-19.03.55:753][878]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.07.08-19.03.55:753][878]MaterialEditorStats: Texture samplers: 2/16
+[2018.07.08-19.03.57:480][991]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.03.57:509][991]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.07.08-19.04.09:572][727]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.07.08-19.04.09:572][727]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.07.08-19.04.09:572][727]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.07.08-19.04.09:573][727]MaterialEditorStats: Texture samplers: 2/16
+[2018.07.08-19.04.23:643][816]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.04.23:667][816]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2018.07.08-19.04.27:640][ 14]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.04.30:572][165]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.07.08-19.04.30:572][165]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.07.08-19.04.30:573][165]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.07.08-19.04.30:573][165]MaterialEditorStats: Texture samplers: 2/16
+[2018.07.08-19.04.40:001][798]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.04.40:030][798]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.07.08-19.04.42:424][925]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.04.42:464][925]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.07.08-19.04.44:793][ 45]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.04.44:833][ 45]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.07.08-19.04.45:874][ 95]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.04.45:910][ 95]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.07.08-19.04.49:221][252]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.07.08-19.04.49:222][252]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.07.08-19.04.49:222][252]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.07.08-19.04.49:222][252]MaterialEditorStats: Texture samplers: 2/16
+[2018.07.08-19.04.49:787][285]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.04.49:822][285]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.07.08-19.04.52:849][431]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.07.08-19.04.52:849][431]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.07.08-19.04.52:849][431]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.07.08-19.04.52:850][431]MaterialEditorStats: Texture samplers: 2/16
+[2018.07.08-19.04.53:661][479]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.04.53:689][479]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.07.08-19.04.57:609][712]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.04.57:640][712]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.07.08-19.04.58:814][772]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.04.58:851][772]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.07.08-19.05.01:863][933]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.05.01:900][933]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.07.08-19.05.02:665][969]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.05.02:700][969]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.07.08-19.05.03:724][ 19]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.05.03:763][ 19]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.07.08-19.05.05:226][ 97]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.05.05:262][ 97]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.07.08-19.05.05:652][114]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.05.05:691][114]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.07.08-19.05.07:229][196]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.05.07:265][196]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.07.08-19.05.08:266][251]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.05.08:303][251]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.07.08-19.05.09:205][296]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.05.09:248][296]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.07.08-19.05.09:846][325]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.05.09:885][325]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.07.08-19.05.10:649][364]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.05.10:689][364]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.07.08-19.05.11:296][393]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.05.11:333][393]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.07.08-19.05.12:175][437]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.05.12:216][437]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.07.08-19.05.15:192][590]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.05.15:228][590]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.07.08-19.05.19:007][802]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.05.19:037][802]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.07.08-19.05.24:406][120]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.05.24:438][120]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.07.08-19.05.28:361][337]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.05.28:389][337]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.07.08-19.05.28:420][337]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.05.28:458][337]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.07.08-19.05.31:603][497]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.07.08-19.05.31:603][497]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.07.08-19.05.31:603][497]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.07.08-19.05.31:603][497]MaterialEditorStats: Texture samplers: 2/16
+[2018.07.08-19.05.34:039][661]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.05.34:072][661]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.07.08-19.05.39:217][965]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.05.39:248][965]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.07.08-19.05.42:905][162]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.05.42:935][162]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.07.08-19.05.45:179][268]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.05.45:215][268]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.07.08-19.05.48:728][445]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.07.08-19.05.48:728][445]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.07.08-19.05.48:728][445]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.07.08-19.05.48:728][445]MaterialEditorStats: Texture samplers: 2/16
+[2018.07.08-19.05.51:400][599]LogMaterialEditor: Saving and Compiling material Landscape
+[2018.07.08-19.05.52:334][599]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.05.52:423][599]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.05.52:484][599]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.05.52:579][599]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Landscape, compiling. 
+[2018.07.08-19.05.54:712][599]TextureStreamingBuild: Display: Compiling optional shaders took 2.149 seconds.
+[2018.07.08-19.05.57:817][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Landscape" FILE="../../../../../../Documents/GitHub/W.A.V/WAV/Content/Landscape.uasset" SILENT=true
+[2018.07.08-19.05.57:849][599]LogSavePackage: Save=26.43ms
+[2018.07.08-19.05.57:850][599]LogSavePackage: Moving '../../../../../../Documents/GitHub/W.A.V/WAV/Saved/LandscapeDCCCE23446B94B7B29486CBDC9473584.tmp' to '../../../../../../Documents/GitHub/W.A.V/WAV/Content/Landscape.uasset'
+[2018.07.08-19.05.57:853][599]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/W.A.V/WAV/Content/Landscape.uasset
+[2018.07.08-19.05.57:867][599]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.07.08-19.05.57:867][599]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.07.08-19.05.57:867][599]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.07.08-19.05.57:867][599]MaterialEditorStats: Texture samplers: 3/16
+[2018.07.08-19.06.29:999][115]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.06.30:073][115]LogMaterial: Warning: Material /Game/Landscape.Landscape needed to have new flag set bUsedWithStaticLighting !
+[2018.07.08-19.06.30:075][115]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.06.30:146][115]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.06.30:283][115]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.06.30:301][115]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.06.30:339][115]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.07.06:559][757]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 256X256)
+[2018.07.08-19.07.06:588][757]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.07.06:728][757]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 256X256)
+[2018.07.08-19.07.06:772][757]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 256X256)
+[2018.07.08-19.07.06:814][757]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 256X256)
+[2018.07.08-19.07.06:856][757]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 256X256)
+[2018.07.08-19.07.06:907][757]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 256X256)
+[2018.07.08-19.07.06:949][757]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 256X256)
+[2018.07.08-19.07.06:989][757]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 256X256)
+[2018.07.08-19.07.07:029][757]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 256X256)
+[2018.07.08-19.07.07:066][757]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 256X256)
+[2018.07.08-19.07.07:103][757]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 256X256)
+[2018.07.08-19.07.07:160][757]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 256X256)
+[2018.07.08-19.07.07:199][757]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 256X256)
+[2018.07.08-19.07.07:238][757]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 256X256)
+[2018.07.08-19.07.07:285][757]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 256X256)
+[2018.07.08-19.07.07:328][757]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 256X256)
+[2018.07.08-19.08.05:258][348]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 256X256)
+[2018.07.08-19.08.05:287][348]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.08.05:422][348]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 256X256)
+[2018.07.08-19.08.06:739][435]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 256X256)
+[2018.07.08-19.09.03:036][ 66]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 256X256)
+[2018.07.08-19.09.13:962][970]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 256X256)
+[2018.07.08-19.10.55:477][259]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.07.08-19.10.56:176][319]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2018.07.08-19.11.11:201][760]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 256X256)
+[2018.07.08-19.11.25:307][920]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 256X256)
+[2018.07.08-19.11.45:929][542]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 256X256)
+[2018.07.08-19.11.53:218][ 97]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 256X256)
+[2018.07.08-19.12.20:048][267]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 256X256)
+[2018.07.08-19.12.34:329][391]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 256X256)
+[2018.07.08-19.14.19:891][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WAV01" FILE="../../../../../../Documents/GitHub/W.A.V/WAV/Saved/Autosaves/Game/WAV01_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.07.08-19.14.20:082][168]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 256X256)
+[2018.07.08-19.14.20:089][168]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 256X256)
+[2018.07.08-19.14.20:094][168]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 256X256)
+[2018.07.08-19.14.20:098][168]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 256X256)
+[2018.07.08-19.14.20:103][168]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 256X256)
+[2018.07.08-19.14.20:107][168]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 256X256)
+[2018.07.08-19.14.20:111][168]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 256X256)
+[2018.07.08-19.14.20:116][168]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 256X256)
+[2018.07.08-19.14.20:120][168]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 256X256)
+[2018.07.08-19.14.20:125][168]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 256X256)
+[2018.07.08-19.14.20:129][168]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 256X256)
+[2018.07.08-19.14.20:133][168]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 256X256)
+[2018.07.08-19.14.20:138][168]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 256X256)
+[2018.07.08-19.14.20:142][168]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 256X256)
+[2018.07.08-19.14.20:146][168]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 256X256)
+[2018.07.08-19.14.20:151][168]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 256X256)
+[2018.07.08-19.14.20:155][168]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 256X256)
+[2018.07.08-19.14.20:159][168]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 256X256)
+[2018.07.08-19.14.20:163][168]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 256X256)
+[2018.07.08-19.14.20:167][168]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 256X256)
+[2018.07.08-19.14.20:171][168]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 256X256)
+[2018.07.08-19.14.20:176][168]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 256X256)
+[2018.07.08-19.14.20:180][168]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 256X256)
+[2018.07.08-19.14.20:184][168]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 256X256)
+[2018.07.08-19.14.20:188][168]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 256X256)
+[2018.07.08-19.14.20:192][168]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 256X256)
+[2018.07.08-19.14.20:197][168]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 256X256)
+[2018.07.08-19.14.21:443][168]LogSavePackage: Save=1529.97ms
+[2018.07.08-19.14.21:443][168]LogSavePackage: Moving '../../../../../../Documents/GitHub/W.A.V/WAV/Saved/WAV01_Auto3164EF34F4262F7CB75B4EC9E4EFE4BBD.tmp' to '../../../../../../Documents/GitHub/W.A.V/WAV/Saved/Autosaves/Game/WAV01_Auto3.umap'
+[2018.07.08-19.14.21:444][168]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/W.A.V/WAV/Saved/Autosaves/Game/WAV01_Auto3.umap
+[2018.07.08-19.14.21:446][168]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/WAV01' took 1.575
+[2018.07.08-19.14.21:446][168]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.575
+[2018.07.08-19.14.21:467][168]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/WAV01_BuiltData] ([1] browsable assets)...
+[2018.07.08-19.14.21:467][168]OBJ SavePackage: Finished generating thumbnails for package [/Game/WAV01_BuiltData]
+[2018.07.08-19.14.21:467][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WAV01_BuiltData" FILE="../../../../../../Documents/GitHub/W.A.V/WAV/Saved/Autosaves/Game/WAV01_BuiltData_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2018.07.08-19.14.22:325][168]LogSavePackage: Save=272.84ms
+[2018.07.08-19.14.22:325][168]LogSavePackage: Moving '../../../../../../Documents/GitHub/W.A.V/WAV/Saved/WAV01_BuiltData_Auto3BB23E875420247BBB2F479A335698B1C.tmp' to '../../../../../../Documents/GitHub/W.A.V/WAV/Saved/Autosaves/Game/WAV01_BuiltData_Auto3.uasset'
+[2018.07.08-19.14.22:326][168]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/W.A.V/WAV/Saved/Autosaves/Game/WAV01_BuiltData_Auto3.uasset
+[2018.07.08-19.14.22:326][168]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Landscape] ([1] browsable assets)...
+[2018.07.08-19.14.22:326][168]OBJ SavePackage: Finished generating thumbnails for package [/Game/Landscape]
+[2018.07.08-19.14.22:326][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Landscape" FILE="../../../../../../Documents/GitHub/W.A.V/WAV/Saved/Autosaves/Game/Landscape_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2018.07.08-19.14.22:362][168]LogSavePackage: Save=22.13ms
+[2018.07.08-19.14.22:362][168]LogSavePackage: Moving '../../../../../../Documents/GitHub/W.A.V/WAV/Saved/Landscape_Auto3189651E84FDE10D3620D6A86979808D4.tmp' to '../../../../../../Documents/GitHub/W.A.V/WAV/Saved/Autosaves/Game/Landscape_Auto3.uasset'
+[2018.07.08-19.14.22:363][168]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/W.A.V/WAV/Saved/Autosaves/Game/Landscape_Auto3.uasset
+[2018.07.08-19.14.22:364][168]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/WAV01_sharedassets/Grass_LayerInfo] ([1] browsable assets)...
+[2018.07.08-19.14.22:364][168]OBJ SavePackage: Finished generating thumbnails for package [/Game/WAV01_sharedassets/Grass_LayerInfo]
+[2018.07.08-19.14.22:372][168]LogSavePackage: Save=5.73ms
+[2018.07.08-19.14.22:372][168]LogSavePackage: Moving '../../../../../../Documents/GitHub/W.A.V/WAV/Saved/Grass_LayerInfo_Auto31AE2D0604F3EF6DC2CCF5891B085A432.tmp' to '../../../../../../Documents/GitHub/W.A.V/WAV/Saved/Autosaves/Game/WAV01_sharedassets/Grass_LayerInfo_Auto3.uasset'
+[2018.07.08-19.14.22:373][168]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/W.A.V/WAV/Saved/Autosaves/Game/WAV01_sharedassets/Grass_LayerInfo_Auto3.uasset
+[2018.07.08-19.14.22:373][168]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/WAV01_sharedassets/Dirt_LayerInfo] ([1] browsable assets)...
+[2018.07.08-19.14.22:373][168]OBJ SavePackage: Finished generating thumbnails for package [/Game/WAV01_sharedassets/Dirt_LayerInfo]
+[2018.07.08-19.14.22:380][168]LogSavePackage: Save=4.92ms
+[2018.07.08-19.14.22:380][168]LogSavePackage: Moving '../../../../../../Documents/GitHub/W.A.V/WAV/Saved/Dirt_LayerInfo_Auto3C6456B504B5071D016FF5B9AC36E6210.tmp' to '../../../../../../Documents/GitHub/W.A.V/WAV/Saved/Autosaves/Game/WAV01_sharedassets/Dirt_LayerInfo_Auto3.uasset'
+[2018.07.08-19.14.22:381][168]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/W.A.V/WAV/Saved/Autosaves/Game/WAV01_sharedassets/Dirt_LayerInfo_Auto3.uasset
+[2018.07.08-19.14.22:381][168]LogFileHelpers: Auto-saving content packages took 0.931
+[2018.07.08-19.20.25:292][199]Cmd: TRANSACTION UNDO
+[2018.07.08-19.20.25:292][199]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2018.07.08-19.20.45:010][289]Cmd: TRANSACTION UNDO
+[2018.07.08-19.20.45:010][289]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2018.07.08-19.20.56:845][611]Cmd: TRANSACTION UNDO
+[2018.07.08-19.20.56:845][611]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2018.07.08-19.21.01:982][153]Cmd: TRANSACTION UNDO
+[2018.07.08-19.21.01:982][153]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2018.07.08-19.21.52:357][211]Cmd: TRANSACTION UNDO
+[2018.07.08-19.21.52:357][211]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2018.07.08-19.21.52:439][211]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 256X256)
+[2018.07.08-19.21.52:467][211]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 512X512)
+[2018.07.08-19.21.52:634][217]Cmd: TRANSACTION UNDO
+[2018.07.08-19.21.52:634][217]LogEditorTransaction: Undo Edit Tool Strength
+[2018.07.08-19.21.53:156][265]Cmd: TRANSACTION UNDO
+[2018.07.08-19.21.53:156][265]LogEditorTransaction: Undo Edit Intensity
+[2018.07.08-19.21.53:707][265]Cmd: TRANSACTION UNDO
+[2018.07.08-19.21.53:707][265]LogEditorTransaction: Undo Clicking on Actors
+[2018.07.08-19.21.53:904][282]Cmd: TRANSACTION UNDO
+[2018.07.08-19.21.53:904][282]LogEditorTransaction: Undo Clicking on Actors
+[2018.07.08-19.21.54:783][380]Cmd: TRANSACTION UNDO
+[2018.07.08-19.21.54:783][380]LogEditorTransaction: Undo Rotate Actors
+[2018.07.08-19.22.03:002][342]Cmd: TRANSACTION REDO
+[2018.07.08-19.22.03:002][342]LogEditorTransaction: Redo Rotate Actors
+[2018.07.08-19.24.28:435][312]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.07.08-19.24.28:563][312]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.07.08-19.24.28:591][312]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.07.08-19.24.28:642][312]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.07.08-19.24.28:650][312]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.07.08-19.24.32:586][557]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.07.08-19.24.32:586][557]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2018.07.08-19.24.32:587][557]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.07.08-19.24.32:587][557]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.07.08-19.24.32:587][557]MaterialEditorStats: Texture samplers: 3/16
+[2018.07.08-19.24.36:363][823]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.07.08-19.24.36:393][823]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.07.08-19.24.38:395][938]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.07.08-19.24.38:436][938]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.07.08-19.24.45:014][421]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.07.08-19.24.45:048][421]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.07.08-19.24.46:092][479]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.07.08-19.24.46:137][479]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.07.08-19.24.49:602][693]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.07.08-19.24.49:602][693]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2018.07.08-19.24.49:602][693]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.07.08-19.24.49:602][693]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.07.08-19.24.49:602][693]MaterialEditorStats: Texture samplers: 3/16
+[2018.07.08-19.25.00:161][498]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.07.08-19.25.07:523][971]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.07.08-19.25.07:647][971]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.07.08-19.25.07:676][971]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.07.08-19.25.07:733][971]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.07.08-19.25.07:740][971]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.07.08-19.25.10:818][150]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.07.08-19.25.10:818][150]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2018.07.08-19.25.10:818][150]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.07.08-19.25.10:818][150]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.07.08-19.25.10:818][150]MaterialEditorStats: Texture samplers: 3/16
+[2018.07.08-19.25.15:867][533]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.07.08-19.25.19:018][714]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.07.08-19.25.19:057][714]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.07.08-19.25.20:837][820]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.07.08-19.25.20:876][820]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.07.08-19.25.22:321][899]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.07.08-19.25.22:363][899]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.07.08-19.25.24:604][ 30]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.07.08-19.25.24:646][ 30]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.07.08-19.25.26:635][142]LogMaterialEditor: Saving and Compiling material Landscape
+[2018.07.08-19.25.27:719][142]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.07.08-19.25.27:818][142]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.25.27:902][142]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.25.27:967][142]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.25.28:100][142]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.25.28:224][142]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.25.28:243][142]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.25.28:300][142]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Landscape, compiling. 
+[2018.07.08-19.25.30:599][142]TextureStreamingBuild: Display: Compiling optional shaders took 2.309 seconds.
+[2018.07.08-19.25.35:605][142]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.25.35:732][142]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Landscape" FILE="../../../../../../Documents/GitHub/W.A.V/WAV/Content/Landscape.uasset" SILENT=true
+[2018.07.08-19.25.35:783][142]LogSavePackage: Save=28.83ms
+[2018.07.08-19.25.35:783][142]LogSavePackage: Moving '../../../../../../Documents/GitHub/W.A.V/WAV/Saved/Landscape48533F494A8DC17D455BFEA741490D88.tmp' to '../../../../../../Documents/GitHub/W.A.V/WAV/Content/Landscape.uasset'
+[2018.07.08-19.25.35:794][142]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/W.A.V/WAV/Content/Landscape.uasset
+[2018.07.08-19.25.35:817][142]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.07.08-19.25.35:818][142]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2018.07.08-19.25.35:818][142]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.07.08-19.25.35:818][142]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.07.08-19.25.35:818][142]MaterialEditorStats: Texture samplers: 3/16
+[2018.07.08-19.26.11:396][ 79]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 256X256)
+[2018.07.08-19.26.11:426][ 79]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-19.26.13:299][225]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 256X256)
+[2018.07.08-19.26.13:735][258]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 256X256)
+[2018.07.08-19.26.15:876][429]Cmd: TRANSACTION UNDO
+[2018.07.08-19.26.15:877][429]LogEditorTransaction: Undo Landscape Editing: Paint
+[2018.07.08-19.26.15:902][429]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 256X256)
+[2018.07.08-19.26.15:919][429]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 256X256)
+[2018.07.08-19.26.16:056][429]LogActorComponent: ~FComponentReregisterContext: (/Game/WAV01.WAV01:PersistentLevel.Landscape_0.LandscapeComponent_34) Component already registered.
+[2018.07.08-19.26.21:312][782]Cmd: TRANSACTION UNDO
+[2018.07.08-19.26.21:312][782]LogEditorTransaction: Undo Creating New Landscape Layer
+[2018.07.08-19.26.21:630][786]Cmd: TRANSACTION UNDO
+[2018.07.08-19.26.21:630][786]LogEditorTransaction: Undo Modify Color Picker Value
+[2018.07.08-19.26.21:635][786]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.07.08-19.26.21:907][795]Cmd: TRANSACTION UNDO
+[2018.07.08-19.26.21:907][795]LogEditorTransaction: Undo Modify Color Picker Value
+[2018.07.08-19.26.21:927][795]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.07.08-19.26.22:133][801]Cmd: TRANSACTION UNDO
+[2018.07.08-19.26.22:133][801]LogEditorTransaction: Undo Modify Color Picker Value
+[2018.07.08-19.26.22:151][801]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.07.08-19.26.22:338][806]Cmd: TRANSACTION UNDO
+[2018.07.08-19.26.22:338][806]LogEditorTransaction: Undo Modify Color Picker Value
+[2018.07.08-19.26.22:355][806]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.07.08-19.26.22:592][814]Cmd: TRANSACTION UNDO
+[2018.07.08-19.26.22:592][814]LogEditorTransaction: Undo Edit Layer Name
+[2018.07.08-19.26.22:610][814]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.07.08-19.26.23:239][846]Cmd: TRANSACTION UNDO
+[2018.07.08-19.26.23:239][846]LogEditorTransaction: Undo Edit Layer Name
+[2018.07.08-19.26.23:258][846]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.07.08-19.26.23:513][855]Cmd: TRANSACTION UNDO
+[2018.07.08-19.26.23:513][855]LogEditorTransaction: Undo Create Pin Link
+[2018.07.08-19.26.23:768][866]Cmd: TRANSACTION UNDO
+[2018.07.08-19.26.23:768][866]LogEditorTransaction: Undo Modify Color Picker Value
+[2018.07.08-19.26.23:786][866]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.07.08-19.26.24:049][874]Cmd: TRANSACTION UNDO
+[2018.07.08-19.26.24:049][874]LogEditorTransaction: Undo Modify Color Picker Value
+[2018.07.08-19.26.24:067][874]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.07.08-19.26.24:346][885]Cmd: TRANSACTION UNDO
+[2018.07.08-19.26.24:346][885]LogEditorTransaction: Undo Modify Color Picker Value
+[2018.07.08-19.26.24:366][885]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.07.08-19.26.24:652][896]Cmd: TRANSACTION UNDO
+[2018.07.08-19.26.24:652][896]LogEditorTransaction: Undo Modify Color Picker Value
+[2018.07.08-19.26.24:668][896]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.07.08-19.26.24:975][908]Cmd: TRANSACTION UNDO
+[2018.07.08-19.26.24:975][908]LogEditorTransaction: Undo Edit Tool Strength
+[2018.07.08-19.26.26:244][  8]Cmd: TRANSACTION UNDO
+[2018.07.08-19.26.26:244][  8]LogEditorTransaction: Undo Rotate Actors
+[2018.07.08-19.26.26:494][ 20]Cmd: TRANSACTION UNDO
+[2018.07.08-19.26.26:494][ 20]LogEditorTransaction: Undo Move Actors
+[2018.07.08-19.26.30:025][338]Cmd: TRANSACTION UNDO
+[2018.07.08-19.26.30:025][338]LogEditorTransaction: Undo Rotate Actors
+[2018.07.08-19.26.30:721][384]Cmd: TRANSACTION UNDO
+[2018.07.08-19.26.30:721][384]LogEditorTransaction: Undo Create Actors
+[2018.07.08-19.26.33:246][655]Cmd: TRANSACTION REDO
+[2018.07.08-19.26.33:246][655]LogEditorTransaction: Redo Create Actors
+[2018.07.08-19.26.33:721][700]Cmd: TRANSACTION REDO
+[2018.07.08-19.26.33:721][700]LogEditorTransaction: Redo Rotate Actors
+[2018.07.08-19.26.34:176][742]Cmd: TRANSACTION REDO
+[2018.07.08-19.26.34:176][742]LogEditorTransaction: Redo Move Actors
+[2018.07.08-19.26.34:643][786]Cmd: TRANSACTION REDO
+[2018.07.08-19.26.34:643][786]LogEditorTransaction: Redo Rotate Actors
+[2018.07.08-19.26.35:331][855]Cmd: TRANSACTION REDO
+[2018.07.08-19.26.35:331][855]LogEditorTransaction: Redo Edit Tool Strength
+[2018.07.08-19.27.17:100][517]LogLinker: Warning: Can't find file '/Game/WAV01_sharedassets/snow_LayerInfo'
+[2018.07.08-19.27.17:100][517]LogLinker: Warning: Can't find file '/Game/WAV01_sharedassets/snow_LayerInfo'
+[2018.07.08-19.27.17:116][517]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/WAV01_sharedassets/snow_LayerInfo.snow_LayerInfo'
+[2018.07.08-19.27.26:913][433]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 256X256)
+[2018.07.08-19.27.29:537][721]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2018.07.08-19.27.35:969][721]LogWindows: Error: === Critical error: ===
+[2018.07.08-19.27.35:969][721]LogWindows: Error: 
+[2018.07.08-19.27.35:969][721]LogWindows: Error: Assertion failed: Usage [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\Landscape\Private\LandscapeEdit.cpp] [Line: 4208] 
+[2018.07.08-19.27.35:969][721]LogWindows: Error: 
+[2018.07.08-19.27.35:969][721]LogWindows: Error: 
+[2018.07.08-19.27.35:969][721]LogWindows: Error: 
+[2018.07.08-19.27.35:969][721]LogWindows: Error: [Callstack] 0x0000000031DFA388 KERNELBASE.dll!UnknownFunction []
+[2018.07.08-19.27.35:969][721]LogWindows: Error: [Callstack] 0x000000001F1C76D4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.08-19.27.35:969][721]LogWindows: Error: [Callstack] 0x00000000144B330B UE4Editor-Core.dll!UnknownFunction []
+[2018.07.08-19.27.35:970][721]LogWindows: Error: [Callstack] 0x00000000144447F9 UE4Editor-Core.dll!UnknownFunction []
+[2018.07.08-19.27.35:970][721]LogWindows: Error: [Callstack] 0x0000000007D57D1A UE4Editor-Landscape.dll!UnknownFunction []
+[2018.07.08-19.27.35:970][721]LogWindows: Error: [Callstack] 0x0000000007D7506C UE4Editor-Landscape.dll!UnknownFunction []
+[2018.07.08-19.27.35:970][721]LogWindows: Error: [Callstack] 0x00000000C9463E95 UE4Editor-LandscapeEditor.dll!UnknownFunction []
+[2018.07.08-19.27.35:970][721]LogWindows: Error: [Callstack] 0x00000000C938D060 UE4Editor-LandscapeEditor.dll!UnknownFunction []
+[2018.07.08-19.27.35:970][721]LogWindows: Error: [Callstack] 0x00000000C939C3FA UE4Editor-LandscapeEditor.dll!UnknownFunction []
+[2018.07.08-19.27.35:970][721]LogWindows: Error: [Callstack] 0x00000000C94229DE UE4Editor-LandscapeEditor.dll!UnknownFunction []
+[2018.07.08-19.27.35:970][721]LogWindows: Error: [Callstack] 0x00000000DC11A661 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.07.08-19.27.35:970][721]LogWindows: Error: [Callstack] 0x00000000DC188337 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.07.08-19.27.35:970][721]LogWindows: Error: [Callstack] 0x00000000DC560EC0 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.07.08-19.27.35:970][721]LogWindows: Error: [Callstack] 0x00000000DE4A2FA6 UE4Editor-Engine.dll!UnknownFunction []
+[2018.07.08-19.27.35:970][721]LogWindows: Error: [Callstack] 0x00000000FC2F6684 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.08-19.27.35:970][721]LogWindows: Error: [Callstack] 0x00000000FC0869E6 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.08-19.27.35:970][721]LogWindows: Error: [Callstack] 0x00000000FC0575AC UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.08-19.27.35:970][721]LogWindows: Error: [Callstack] 0x00000000FC0F0D97 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.08-19.27.35:970][721]LogWindows: Error: [Callstack] 0x00000000FC0DABE2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.08-19.27.35:970][721]LogWindows: Error: [Callstack] 0x00000000FC0CD253 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.08-19.27.35:970][721]LogWindows: Error: [Callstack] 0x000000001F1BE5EE UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.08-19.27.35:970][721]LogWindows: Error: [Callstack] 0x000000001F1B1A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.08-19.27.35:970][721]LogWindows: Error: [Callstack] 0x000000001F1C03EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.08-19.27.35:970][721]LogWindows: Error: [Callstack] 0x000000001F1AD5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.08-19.27.35:970][721]LogWindows: Error: [Callstack] 0x0000000032EF6CC1 USER32.dll!UnknownFunction []
+[2018.07.08-19.27.35:970][721]LogWindows: Error: [Callstack] 0x0000000032EF6693 USER32.dll!UnknownFunction []
+[2018.07.08-19.27.35:970][721]LogWindows: Error: [Callstack] 0x000000001F1C1516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.08-19.27.35:970][721]LogWindows: Error: [Callstack] 0x00000000557450C8 UE4Editor.exe!UnknownFunction []
+[2018.07.08-19.27.35:970][721]LogWindows: Error: [Callstack] 0x0000000055755430 UE4Editor.exe!UnknownFunction []
+[2018.07.08-19.27.35:970][721]LogWindows: Error: [Callstack] 0x00000000557554AA UE4Editor.exe!UnknownFunction []
+[2018.07.08-19.27.35:970][721]LogWindows: Error: [Callstack] 0x0000000055762379 UE4Editor.exe!UnknownFunction []
+[2018.07.08-19.27.35:970][721]LogWindows: Error: [Callstack] 0x0000000055763D57 UE4Editor.exe!UnknownFunction []
+[2018.07.08-19.27.35:970][721]LogWindows: Error: [Callstack] 0x00000000339F3034 KERNEL32.DLL!UnknownFunction []
+[2018.07.08-19.27.35:970][721]LogWindows: Error: [Callstack] 0x0000000035A61431 ntdll.dll!UnknownFunction []
+[2018.07.08-19.27.35:970][721]LogWindows: Error: [Callstack] 0x0000000035A61431 ntdll.dll!UnknownFunction []
+[2018.07.08-19.27.35:970][721]LogWindows: Error: 
+[2018.07.08-19.27.35:993][721]LogExit: Executing StaticShutdownAfterError
+[2018.07.08-19.27.36:047][721]LogWindows: FPlatformMisc::RequestExit(1)
+[2018.07.08-19.27.36:051][721]Log file closed, 07/08/18 15:27:36
