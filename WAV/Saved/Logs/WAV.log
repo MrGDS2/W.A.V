@@ -1064,3 +1064,508 @@ LogInit: Object subsystem initialized
 [2018.07.08-20.14.11:475][396]LogSavePackage: Save=2875.01ms
 [2018.07.08-20.14.11:475][396]LogSavePackage: Moving '../../../../../../Documents/GitHub/W.A.V/WAV/Saved/WAV01_BuiltData2336B72240C4000E17292E829B63D515.tmp' to '../../../../../../Documents/GitHub/W.A.V/WAV/Content/WAV01_BuiltData.uasset'
 [2018.07.08-20.14.11:496][396]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/W.A.V/WAV/Content/WAV01_BuiltData.uasset
+[2018.07.08-21.04.00:303][161]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-21.04.00:478][161]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-21.04.00:515][161]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-21.04.00:580][161]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.07.08-21.04.00:588][161]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.07.08-21.04.00:597][161]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2018.07.08-21.04.04:870][423]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.07.08-21.04.04:870][423]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2018.07.08-21.04.04:870][423]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.07.08-21.04.04:871][423]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.07.08-21.04.04:871][423]MaterialEditorStats: Texture samplers: 3/16
+[2018.07.08-21.04.27:421][270]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-21.04.31:753][542]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.07.08-21.04.31:753][542]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2018.07.08-21.04.31:754][542]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.07.08-21.04.31:754][542]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.07.08-21.04.31:754][542]MaterialEditorStats: Texture samplers: 3/16
+[2018.07.08-21.04.53:180][315]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-21.04.53:207][315]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.07.08-21.04.57:579][586]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.07.08-21.04.57:579][586]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2018.07.08-21.04.57:579][586]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.07.08-21.04.57:580][586]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.07.08-21.04.57:580][586]MaterialEditorStats: Texture samplers: 3/16
+[2018.07.08-21.04.58:042][626]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-21.04.58:076][626]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.07.08-21.05.01:472][840]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.07.08-21.05.01:472][840]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2018.07.08-21.05.01:472][840]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.07.08-21.05.01:472][840]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.07.08-21.05.01:472][840]MaterialEditorStats: Texture samplers: 3/16
+[2018.07.08-21.05.05:005][ 97]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-21.05.05:061][ 97]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.07.08-21.05.05:064][ 97]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.07.08-21.05.08:357][293]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.07.08-21.05.08:357][293]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2018.07.08-21.05.08:357][293]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.07.08-21.05.08:358][293]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.07.08-21.05.08:358][293]MaterialEditorStats: Texture samplers: 3/16
+[2018.07.08-21.05.08:699][317]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-21.05.08:752][317]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.07.08-21.05.12:087][520]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.07.08-21.05.12:087][520]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2018.07.08-21.05.12:087][520]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.07.08-21.05.12:088][520]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.07.08-21.05.12:088][520]MaterialEditorStats: Texture samplers: 3/16
+[2018.07.08-21.05.21:148][272]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-21.05.21:176][272]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLandscapeLayerCoords_0, compiling. 
+[2018.07.08-21.05.24:548][493]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.07.08-21.05.24:548][493]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2018.07.08-21.05.24:548][493]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.07.08-21.05.24:548][493]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.07.08-21.05.24:549][493]MaterialEditorStats: Texture samplers: 3/16
+[2018.07.08-21.05.40:066][773]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-21.05.40:097][773]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.07.08-21.05.40:127][773]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLandscapeLayerCoords_0, compiling. 
+[2018.07.08-21.05.42:997][947]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-21.05.43:040][947]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.07.08-21.05.43:071][947]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLandscapeLayerCoords_0, compiling. 
+[2018.07.08-21.05.46:724][172]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.07.08-21.05.46:724][172]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2018.07.08-21.05.46:724][172]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.07.08-21.05.46:724][172]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.07.08-21.05.46:724][172]MaterialEditorStats: Texture samplers: 3/16
+[2018.07.08-21.05.47:608][240]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-21.05.47:642][240]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.07.08-21.05.51:092][458]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.07.08-21.05.51:092][458]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2018.07.08-21.05.51:092][458]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.07.08-21.05.51:092][458]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.07.08-21.05.51:092][458]MaterialEditorStats: Texture samplers: 3/16
+[2018.07.08-21.07.16:752][957]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-21.07.21:029][232]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.07.08-21.07.21:030][232]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2018.07.08-21.07.21:030][232]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.07.08-21.07.21:030][232]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.07.08-21.07.21:030][232]MaterialEditorStats: Texture samplers: 3/16
+[2018.07.08-21.08.08:514][643]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.07.08-21.08.08:645][643]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.07.08-21.08.08:673][643]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.07.08-21.08.08:731][643]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.07.08-21.08.08:740][643]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.07.08-21.08.08:749][643]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2018.07.08-21.08.13:176][908]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.07.08-21.08.13:177][908]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2018.07.08-21.08.13:177][908]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.07.08-21.08.13:178][908]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.07.08-21.08.13:178][908]MaterialEditorStats: Texture samplers: 3/16
+[2018.07.08-21.08.20:464][474]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.07.08-21.08.23:865][692]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.07.08-21.08.23:865][692]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2018.07.08-21.08.23:865][692]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.07.08-21.08.23:865][692]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.07.08-21.08.23:865][692]MaterialEditorStats: Texture samplers: 3/16
+[2018.07.08-21.08.27:600][995]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.07.08-21.08.27:627][995]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.07.08-21.08.31:013][197]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.07.08-21.08.31:014][197]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2018.07.08-21.08.31:014][197]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.07.08-21.08.31:014][197]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.07.08-21.08.31:014][197]MaterialEditorStats: Texture samplers: 3/16
+[2018.07.08-21.08.34:443][463]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.07.08-21.08.34:474][463]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.07.08-21.08.38:400][702]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.07.08-21.08.38:400][702]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2018.07.08-21.08.38:401][702]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.07.08-21.08.38:401][702]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.07.08-21.08.38:401][702]MaterialEditorStats: Texture samplers: 3/16
+[2018.07.08-21.08.43:905][136]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.07.08-21.08.43:932][136]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLandscapeLayerCoords_1, compiling. 
+[2018.07.08-21.08.47:536][348]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.07.08-21.08.47:537][348]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2018.07.08-21.08.47:537][348]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.07.08-21.08.47:537][348]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.07.08-21.08.47:537][348]MaterialEditorStats: Texture samplers: 3/16
+[2018.07.08-21.08.51:854][664]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.07.08-21.08.51:891][664]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.07.08-21.08.51:920][664]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLandscapeLayerCoords_1, compiling. 
+[2018.07.08-21.08.55:289][858]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.07.08-21.08.55:289][858]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2018.07.08-21.08.55:289][858]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.07.08-21.08.55:289][858]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.07.08-21.08.55:290][858]MaterialEditorStats: Texture samplers: 3/16
+[2018.07.08-21.09.06:634][590]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.07.08-21.09.06:668][590]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.07.08-21.09.10:101][804]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.07.08-21.09.10:101][804]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2018.07.08-21.09.10:101][804]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.07.08-21.09.10:101][804]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.07.08-21.09.10:102][804]MaterialEditorStats: Texture samplers: 3/16
+[2018.07.08-21.09.15:723][229]LogMaterialEditor: Saving and Compiling material Landscape
+[2018.07.08-21.09.16:662][229]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.07.08-21.09.16:751][229]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-21.09.16:848][229]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-21.09.16:921][229]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-21.09.17:072][229]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-21.09.17:219][229]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-21.09.17:355][229]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-21.09.17:482][229]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-21.09.17:505][229]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-21.09.17:638][229]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-21.09.17:769][229]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-21.09.17:891][229]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-21.09.17:911][229]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-21.09.17:931][229]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2018.07.08-21.09.18:109][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Landscape, compiling. 
+[2018.07.08-21.09.19:485][229]TextureStreamingBuild: Display: Compiling optional shaders took 1.386 seconds.
+[2018.07.08-21.09.24:858][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Landscape" FILE="../../../../../../Documents/GitHub/W.A.V/WAV/Content/Landscape.uasset" SILENT=true
+[2018.07.08-21.09.24:902][229]LogSavePackage: Save=27.82ms
+[2018.07.08-21.09.24:902][229]LogSavePackage: Moving '../../../../../../Documents/GitHub/W.A.V/WAV/Saved/LandscapeE008D64149F80C545774D4A3D79FCEF3.tmp' to '../../../../../../Documents/GitHub/W.A.V/WAV/Content/Landscape.uasset'
+[2018.07.08-21.09.24:907][229]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/W.A.V/WAV/Content/Landscape.uasset
+[2018.07.08-21.10.36:584][519]LogMaterial: Missing cached shader map for material FoliageBrushSphereMaterial, compiling. 
+[2018.07.08-21.10.37:017][540]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2018.07.08-21.11.47:729][ 79]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.07.08-21.11.47:854][ 79]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.07.08-21.11.47:881][ 79]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.07.08-21.11.47:931][ 79]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.07.08-21.11.47:940][ 79]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2018.07.08-21.11.47:947][ 79]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.07.08-21.11.47:955][ 79]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLandscapeLayerCoords_1, compiling. 
+[2018.07.08-21.11.51:859][319]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.07.08-21.11.51:859][319]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2018.07.08-21.11.51:859][319]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.07.08-21.11.51:859][319]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.07.08-21.11.51:859][319]MaterialEditorStats: Texture samplers: 3/16
+[2018.07.08-21.11.56:565][658]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.07.08-21.11.56:597][658]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.07.08-21.11.59:578][847]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.07.08-21.11.59:578][847]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2018.07.08-21.11.59:578][847]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.07.08-21.11.59:578][847]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.07.08-21.11.59:579][847]MaterialEditorStats: Texture samplers: 3/16
+[2018.07.08-21.12.00:545][927]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.07.08-21.12.00:579][927]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.07.08-21.12.03:645][119]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.07.08-21.12.03:646][119]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2018.07.08-21.12.03:646][119]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.07.08-21.12.03:646][119]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.07.08-21.12.03:646][119]MaterialEditorStats: Texture samplers: 3/16
+[2018.07.08-21.12.16:181][495]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Landscape" FILE="../../../../../../Documents/GitHub/W.A.V/WAV/Content/Landscape.uasset" SILENT=true
+[2018.07.08-21.12.16:200][495]LogSavePackage: Save=10.18ms
+[2018.07.08-21.12.16:200][495]LogSavePackage: Moving '../../../../../../Documents/GitHub/W.A.V/WAV/Saved/LandscapeAA658AFD411E629BF185378C0AEA76C6.tmp' to '../../../../../../Documents/GitHub/W.A.V/WAV/Content/Landscape.uasset'
+[2018.07.08-21.12.16:201][495]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/W.A.V/WAV/Content/Landscape.uasset
+[2018.07.08-21.12.37:446][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WAV01" FILE="../../../../../../Documents/GitHub/W.A.V/WAV/Content/WAV01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.08-21.12.37:698][493]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 256X256)
+[2018.07.08-21.12.37:704][493]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 256X256)
+[2018.07.08-21.12.37:710][493]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 256X256)
+[2018.07.08-21.12.37:714][493]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 256X256)
+[2018.07.08-21.12.37:720][493]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 256X256)
+[2018.07.08-21.12.37:724][493]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 256X256)
+[2018.07.08-21.12.37:729][493]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 256X256)
+[2018.07.08-21.12.37:734][493]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 256X256)
+[2018.07.08-21.12.38:734][493]LogSavePackage: Save=1210.34ms
+[2018.07.08-21.12.38:734][493]LogSavePackage: Moving '../../../../../../Documents/GitHub/W.A.V/WAV/Saved/WAV01AB5346C240DA06B803B8DBA7A4D23AFF.tmp' to '../../../../../../Documents/GitHub/W.A.V/WAV/Content/WAV01.umap'
+[2018.07.08-21.12.38:742][493]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/W.A.V/WAV/Content/WAV01.umap
+[2018.07.08-21.12.38:778][493]LogFileHelpers: Saving map 'WAV01' took 1.426
+[2018.07.08-21.12.38:783][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WAV01_sharedassets/Dirt_LayerInfo" FILE="../../../../../../Documents/GitHub/W.A.V/WAV/Content/WAV01_sharedassets/Dirt_LayerInfo.uasset" SILENT=true
+[2018.07.08-21.12.38:792][493]LogSavePackage: Save=6.13ms
+[2018.07.08-21.12.38:792][493]LogSavePackage: Moving '../../../../../../Documents/GitHub/W.A.V/WAV/Saved/Dirt_LayerInfo23427B2E45F53A1F1260E3B8C25E6616.tmp' to '../../../../../../Documents/GitHub/W.A.V/WAV/Content/WAV01_sharedassets/Dirt_LayerInfo.uasset'
+[2018.07.08-21.12.38:806][493]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/W.A.V/WAV/Content/WAV01_sharedassets/Dirt_LayerInfo.uasset
+[2018.07.08-21.12.38:810][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WAV01_sharedassets/snow_LayerInfo" FILE="../../../../../../Documents/GitHub/W.A.V/WAV/Content/WAV01_sharedassets/snow_LayerInfo.uasset" SILENT=true
+[2018.07.08-21.12.38:818][493]LogSavePackage: Save=5.64ms
+[2018.07.08-21.12.38:818][493]LogSavePackage: Moving '../../../../../../Documents/GitHub/W.A.V/WAV/Saved/snow_LayerInfo409B3B5641FBC4C158572DA625B1557E.tmp' to '../../../../../../Documents/GitHub/W.A.V/WAV/Content/WAV01_sharedassets/snow_LayerInfo.uasset'
+[2018.07.08-21.12.38:827][493]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/W.A.V/WAV/Content/WAV01_sharedassets/snow_LayerInfo.uasset
+[2018.07.08-21.12.38:831][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WAV01_sharedassets/v_LayerInfo" FILE="../../../../../../Documents/GitHub/W.A.V/WAV/Content/WAV01_sharedassets/v_LayerInfo.uasset" SILENT=true
+[2018.07.08-21.12.38:863][493]LogSavePackage: Save=5.97ms
+[2018.07.08-21.12.38:863][493]LogSavePackage: Moving '../../../../../../Documents/GitHub/W.A.V/WAV/Saved/v_LayerInfo03A26B32450AAA5B654C01BB909566D2.tmp' to '../../../../../../Documents/GitHub/W.A.V/WAV/Content/WAV01_sharedassets/v_LayerInfo.uasset'
+[2018.07.08-21.12.38:868][493]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/W.A.V/WAV/Content/WAV01_sharedassets/v_LayerInfo.uasset
+[2018.07.08-21.12.39:808][494]Cmd: QUIT_EDITOR
+[2018.07.08-21.12.40:169][494]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.08-21.12.40:249][494]LogExit: Preparing to exit.
+[2018.07.08-21.12.41:612][494]LogDirectoryWatcher: A directory notification for 'E:/Documents/GitHub/W.A.V/WAV/Content/' was aborted.
+[2018.07.08-21.12.41:754][494]LogExit: Editor shut down
+[2018.07.08-21.12.41:800][494]LogExit: Transaction tracking system shut down
+[2018.07.08-21.12.42:269][494]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.07.08-21.12.42:269][494]LogDirectoryWatcher: A directory notification for '../../../../../../Documents/GitHub/W.A.V/WAV/Content/' was aborted.
+[2018.07.08-21.12.42:269][494]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.07.08-21.12.42:270][494]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.07.08-21.12.42:270][494]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.07.08-21.12.42:270][494]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.07.08-21.12.42:270][494]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.07.08-21.12.43:914][494]LogExit: Object subsystem successfully closed.
+[2018.07.08-21.12.44:128][494]LogD3D11RHI: Shutdown
+[2018.07.08-21.12.44:142][494]LogD3D11RHI: CleanupD3DDevice
+[2018.07.08-21.12.44:169][494]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.07.08-21.12.45:606][494]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (552)
+[2018.07.08-21.12.45:607][494]LogModuleManager: Shutting down and abandoning module MaterialEditor (550)
+[2018.07.08-21.12.45:607][494]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2018.07.08-21.12.45:607][494]LogModuleManager: Shutting down and abandoning module AddContentDialog (546)
+[2018.07.08-21.12.45:633][494]LogDirectoryWatcher: A directory notification for 'E:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.07.08-21.12.45:655][494]LogModuleManager: Shutting down and abandoning module WidgetCarousel (545)
+[2018.07.08-21.12.45:655][494]LogModuleManager: Shutting down and abandoning module EditorWidgets (542)
+[2018.07.08-21.12.45:655][494]LogModuleManager: Shutting down and abandoning module CollectionManager (540)
+[2018.07.08-21.12.45:687][494]LogDirectoryWatcher: A directory notification for 'E:/Documents/GitHub/W.A.V/WAV/Content/Collections/' was aborted.
+[2018.07.08-21.12.45:688][494]LogDirectoryWatcher: A directory notification for 'E:/Documents/GitHub/W.A.V/WAV/Content/Developers/Mrgds2/Collections/' was aborted.
+[2018.07.08-21.12.45:688][494]LogDirectoryWatcher: A directory notification for 'E:/Documents/GitHub/W.A.V/WAV/Saved/Collections/' was aborted.
+[2018.07.08-21.12.45:688][494]LogModuleManager: Shutting down and abandoning module SceneOutliner (538)
+[2018.07.08-21.12.45:694][494]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.07.08-21.12.45:711][494]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.07.08-21.12.45:711][494]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.07.08-21.12.45:723][494]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.07.08-21.12.45:728][494]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.07.08-21.12.45:728][494]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.07.08-21.12.45:728][494]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.07.08-21.12.45:728][494]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.07.08-21.12.45:728][494]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.07.08-21.12.45:728][494]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.07.08-21.12.45:728][494]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.07.08-21.12.45:728][494]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.07.08-21.12.45:739][494]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.07.08-21.12.45:752][494]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.07.08-21.12.45:752][494]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.07.08-21.12.45:796][494]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.07.08-21.12.45:796][494]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.07.08-21.12.45:796][494]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.07.08-21.12.45:797][494]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.07.08-21.12.45:797][494]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.07.08-21.12.45:797][494]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.07.08-21.12.45:797][494]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.07.08-21.12.45:797][494]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.07.08-21.12.45:797][494]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.07.08-21.12.45:797][494]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.07.08-21.12.45:797][494]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.07.08-21.12.45:797][494]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.07.08-21.12.45:814][494]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.07.08-21.12.45:836][494]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.07.08-21.12.45:836][494]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.07.08-21.12.45:836][494]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.07.08-21.12.45:836][494]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.07.08-21.12.45:836][494]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.07.08-21.12.45:853][494]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.07.08-21.12.45:887][494]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.07.08-21.12.45:906][494]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.07.08-21.12.45:953][494]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.07.08-21.12.45:973][494]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.07.08-21.12.45:973][494]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.07.08-21.12.45:973][494]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.07.08-21.12.45:973][494]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.07.08-21.12.46:061][494]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.07.08-21.12.46:061][494]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.07.08-21.12.46:061][494]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.07.08-21.12.46:061][494]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.07.08-21.12.46:099][494]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.07.08-21.12.46:124][494]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.07.08-21.12.46:124][494]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.07.08-21.12.46:146][494]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.07.08-21.12.46:146][494]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.07.08-21.12.46:162][494]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.07.08-21.12.46:174][494]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.07.08-21.12.46:174][494]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.07.08-21.12.46:174][494]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.07.08-21.12.46:174][494]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.07.08-21.12.46:184][494]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.07.08-21.12.46:184][494]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.07.08-21.12.46:185][494]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.07.08-21.12.46:185][494]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.07.08-21.12.46:185][494]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.07.08-21.12.46:211][494]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.07.08-21.12.46:279][494]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.07.08-21.12.46:332][494]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.07.08-21.12.46:345][494]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.07.08-21.12.46:359][494]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.07.08-21.12.46:415][494]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.07.08-21.12.46:439][494]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.07.08-21.12.46:452][494]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.07.08-21.12.46:493][494]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.07.08-21.12.46:493][494]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.07.08-21.12.46:542][494]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.07.08-21.12.46:543][494]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.07.08-21.12.46:625][494]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.07.08-21.12.46:625][494]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.07.08-21.12.46:625][494]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.07.08-21.12.46:648][494]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.07.08-21.12.46:648][494]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.07.08-21.12.46:648][494]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.07.08-21.12.46:662][494]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.07.08-21.12.46:766][494]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.07.08-21.12.46:766][494]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.07.08-21.12.46:796][494]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.07.08-21.12.46:796][494]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.07.08-21.12.46:796][494]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.07.08-21.12.46:796][494]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.07.08-21.12.46:797][494]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.07.08-21.12.46:797][494]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.07.08-21.12.46:797][494]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.07.08-21.12.46:797][494]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.07.08-21.12.46:797][494]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.07.08-21.12.46:797][494]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.07.08-21.12.46:797][494]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.07.08-21.12.46:797][494]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.07.08-21.12.46:826][494]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.07.08-21.12.46:826][494]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.07.08-21.12.46:935][494]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.07.08-21.12.47:023][494]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.07.08-21.12.47:024][494]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.07.08-21.12.47:024][494]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.07.08-21.12.47:050][494]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.07.08-21.12.47:076][494]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.07.08-21.12.47:076][494]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.07.08-21.12.47:076][494]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.07.08-21.12.47:103][494]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.07.08-21.12.47:103][494]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.07.08-21.12.47:103][494]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.07.08-21.12.47:103][494]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.07.08-21.12.47:275][494]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.07.08-21.12.47:276][494]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.07.08-21.12.47:276][494]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.07.08-21.12.47:276][494]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.07.08-21.12.47:306][494]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.07.08-21.12.47:307][494]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.07.08-21.12.47:329][494]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.07.08-21.12.47:329][494]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.07.08-21.12.47:329][494]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.07.08-21.12.47:517][494]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.07.08-21.12.47:598][494]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.07.08-21.12.47:598][494]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.07.08-21.12.47:598][494]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.07.08-21.12.47:599][494]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.07.08-21.12.47:663][494]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.07.08-21.12.47:688][494]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.07.08-21.12.47:731][494]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.07.08-21.12.47:771][494]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.07.08-21.12.47:772][494]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.07.08-21.12.47:772][494]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.07.08-21.12.47:772][494]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.07.08-21.12.47:915][494]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.07.08-21.12.47:932][494]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.07.08-21.12.47:962][494]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.07.08-21.12.47:983][494]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.07.08-21.12.47:983][494]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.07.08-21.12.48:041][494]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.07.08-21.12.48:042][494]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.07.08-21.12.48:042][494]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.07.08-21.12.48:042][494]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.07.08-21.12.48:042][494]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.07.08-21.12.48:043][494]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.07.08-21.12.48:043][494]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.07.08-21.12.48:092][494]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.07.08-21.12.48:208][494]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.07.08-21.12.48:344][494]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.07.08-21.12.48:418][494]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.07.08-21.12.48:418][494]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.07.08-21.12.48:418][494]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.07.08-21.12.48:432][494]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.07.08-21.12.48:432][494]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.07.08-21.12.48:435][494]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.07.08-21.12.48:435][494]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.07.08-21.12.48:435][494]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.07.08-21.12.48:449][494]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.07.08-21.12.48:465][494]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.07.08-21.12.48:465][494]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.07.08-21.12.48:466][494]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.07.08-21.12.48:467][494]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.07.08-21.12.48:517][494]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.07.08-21.12.48:517][494]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.07.08-21.12.48:524][494]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.07.08-21.12.48:524][494]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.07.08-21.12.48:524][494]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.07.08-21.12.48:579][494]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.07.08-21.12.48:610][494]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.07.08-21.12.48:610][494]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.07.08-21.12.48:776][494]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.07.08-21.12.48:801][494]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.07.08-21.12.48:847][494]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.07.08-21.12.48:847][494]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.07.08-21.12.48:853][494]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.07.08-21.12.48:952][494]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.07.08-21.12.49:010][494]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.07.08-21.12.49:011][494]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.07.08-21.12.49:119][494]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.07.08-21.12.49:119][494]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.07.08-21.12.49:130][494]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.07.08-21.12.49:131][494]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.07.08-21.12.49:131][494]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.07.08-21.12.49:131][494]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.07.08-21.12.49:131][494]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.07.08-21.12.49:131][494]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.07.08-21.12.49:131][494]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.07.08-21.12.49:132][494]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.07.08-21.12.49:156][494]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.07.08-21.12.49:156][494]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.07.08-21.12.49:225][494]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.07.08-21.12.49:268][494]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.07.08-21.12.49:268][494]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.07.08-21.12.49:295][494]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.07.08-21.12.49:295][494]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.07.08-21.12.49:325][494]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.07.08-21.12.49:339][494]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.07.08-21.12.49:450][494]LogDerivedDataCache: Shutdown
+[2018.07.08-21.12.49:450][494]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.07.08-21.12.49:451][494]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.07.08-21.12.49:467][494]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.07.08-21.12.49:476][494]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.07.08-21.12.49:482][494]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.07.08-21.12.49:490][494]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.07.08-21.12.49:510][494]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.07.08-21.12.49:511][494]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.07.08-21.12.49:511][494]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.07.08-21.12.49:511][494]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.07.08-21.12.49:522][494]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.07.08-21.12.49:522][494]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.07.08-21.12.49:522][494]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.07.08-21.12.49:522][494]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.07.08-21.12.49:522][494]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.07.08-21.12.49:522][494]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.07.08-21.12.49:522][494]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.07.08-21.12.49:522][494]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.07.08-21.12.49:523][494]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.07.08-21.12.49:523][494]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.07.08-21.12.49:523][494]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.07.08-21.12.49:523][494]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.07.08-21.12.49:523][494]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.07.08-21.12.49:523][494]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.07.08-21.12.49:523][494]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.07.08-21.12.49:523][494]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.07.08-21.12.49:524][494]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.07.08-21.12.49:524][494]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.07.08-21.12.49:524][494]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.07.08-21.12.49:524][494]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.07.08-21.12.49:524][494]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.07.08-21.12.49:524][494]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.07.08-21.12.49:524][494]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.07.08-21.12.49:524][494]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.07.08-21.12.49:525][494]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.07.08-21.12.49:525][494]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.07.08-21.12.49:525][494]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.07.08-21.12.49:525][494]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.07.08-21.12.49:525][494]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.07.08-21.12.49:525][494]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.07.08-21.12.49:526][494]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.07.08-21.12.49:526][494]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.07.08-21.12.49:526][494]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.07.08-21.12.49:526][494]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.07.08-21.12.49:526][494]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.07.08-21.12.49:526][494]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.07.08-21.12.49:532][494]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.07.08-21.12.49:532][494]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.07.08-21.12.49:532][494]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.07.08-21.12.49:532][494]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.07.08-21.12.49:532][494]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.07.08-21.12.49:564][494]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.07.08-21.12.49:584][494]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.07.08-21.12.49:584][494]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.07.08-21.12.49:591][494]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B78220E1C-40F2-7E0D-9190-1CA1D9F07B9A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=f9dbcee846651c3a225fce8ac4323ecf%7Cdf16815734cf476dbd544a7f9eb863e8%7C7b1b610e-aa61-4dbb-aa05-d832d376c77f&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.07.08-21.12.49:604][494]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.07.08-21.12.49:627][494]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.07.08-21.12.49:642][494]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.07.08-21.12.49:643][494]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.07.08-21.12.49:656][494]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.07.08-21.12.49:657][494]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.07.08-21.12.49:657][494]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.07.08-21.12.49:657][494]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.07.08-21.12.49:698][494]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.07.08-21.12.49:722][494]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.07.08-21.12.49:722][494]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.07.08-21.12.49:730][494]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.07.08-21.12.49:731][494]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.07.08-21.12.49:731][494]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.07.08-21.12.49:731][494]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.07.08-21.12.49:746][494]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.07.08-21.12.49:746][494]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.07.08-21.12.49:751][494]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.07.08-21.12.49:761][494]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.07.08-21.12.49:783][494]LogExit: Exiting.
+[2018.07.08-21.12.49:805][494]Log file closed, 07/08/18 17:12:49
